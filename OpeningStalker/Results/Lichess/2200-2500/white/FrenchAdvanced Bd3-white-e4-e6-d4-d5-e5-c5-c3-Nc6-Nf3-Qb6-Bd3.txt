@@ -1,0 +1,1032 @@
+white: 64%, black: 31%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Nc6 13. Be3 Qxe5 
+white: 64%, black: 31%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Nc6 13. Be3 Qxe5 14. f4
+white: 64%, black: 31%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Nc6 13. Be3 Qxe5 
+white: 64%, black: 31%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Nc6 13. Be3 Qxe5 14. f4
+white: 64%, black: 31%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Nc6 13. Be3 Qxe5 
+white: 64%, black: 31%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Nc6 13. Be3 Qxe5 14. f4
+white: 63%, black: 32%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Nc6 13. Be3
+white: 63%, black: 31%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Ne7 10. Nxd4 Qxd4 11. Nb5
+white: 63%, black: 32%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Nc6 13. Be3
+white: 63%, black: 31%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nc3 Nxd4 10. Nxd4 Qxd4 11. Nb5
+white: 63%, black: 32%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Nc6 13. Be3
+white: 63%, black: 31%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nc3 Nxd4 10. Nxd4 Qxd4 11. Nb5
+white: 62%, black: 33%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nc6 10. a3
+white: 62%, black: 33%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 Bd7 9. a3
+white: 60%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Bxb4 12. Rb1
+white: 60%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Bxb4 13. Rb1
+white: 60%, black: 34%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nc6 10. Re1 a6 11. Be3
+white: 60%, black: 33%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. Nc3 Nf5 9. Bxf5 exf5 10. Nxd5
+white: 60%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Bxb4 12. Rb1
+white: 60%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Bxb4 13. Rb1
+white: 60%, black: 34%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 dxc3 9. Nxc3 a6 10. Be3
+white: 60%, black: 34%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 Bd7 9. Re1 a6 10. Be3
+white: 60%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Bxb4 12. Rb1
+white: 60%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Bxb4 13. Rb1
+white: 60%, black: 34%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 dxc3 9. Nxc3 a6 10. Be3
+white: 59%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Bxb4 
+white: 59%, black: 36%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Bxb4 12. Rb1 Qa5 
+white: 59%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Bxb4 
+white: 59%, black: 36%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Bxb4 13. Rb1 Qa5 
+white: 59%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nc6 10. Re1 Nge7 11. Be3
+white: 59%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Bxb4 
+white: 59%, black: 36%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Bxb4 12. Rb1 Qa5 
+white: 59%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Bxb4 
+white: 59%, black: 36%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Bxb4 13. Rb1 Qa5 
+white: 59%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 dxc3 9. Nxc3 Nge7 10. Be3
+white: 59%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 Bd7 9. Re1 Nge7 10. Be3
+white: 59%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Bxb4 
+white: 59%, black: 36%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Bxb4 12. Rb1 Qa5 
+white: 59%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Bxb4 
+white: 59%, black: 36%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Bxb4 13. Rb1 Qa5 
+white: 59%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 dxc3 9. Nxc3 Nge7 10. Be3
+white: 58%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Ne7 10. Nxd4 Qxd4 11. Nb5 Qxe5 12. Re1 Qb8 13. Qf3
+white: 58%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nc6 10. Re1 Nge7 
+white: 58%, black: 36%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nc6 10. Re1 Nge7 11. h4
+white: 58%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. Nc3 Nf5 
+white: 58%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. Nc3 Nf5 9. Bxf5
+white: 58%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. Nc3 Nf5 9. Bxf5 exf5 
+white: 58%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 dxc3 9. Nxc3 Nge7 
+white: 58%, black: 36%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 dxc3 9. Nxc3 Nge7 10. h4
+white: 58%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 Bd7 9. Re1 Nge7 
+white: 58%, black: 36%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 Bd7 9. Re1 Nge7 10. h4
+white: 58%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nc3 Nxd4 10. Nxd4 Qxd4 11. Nb5 Qxe5 12. Re1 Qb8 13. Qf3
+white: 58%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 dxc3 9. Nxc3 Nge7 
+white: 58%, black: 36%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 dxc3 9. Nxc3 Nge7 10. h4
+white: 58%, black: 35%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nc3 Nxd4 10. Nxd4 Qxd4 11. Nb5 Qxe5 12. Re1 Qb8 13. Qf3
+white: 57%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qc7 12. Rc1 Ng6 13. Nc5
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Ne7 10. Nxd4 Qxd4 11. Nb5 Qxe5 12. Re1
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Ne7 10. Nxd4 Qxd4 11. Nb5 Qxe5 12. Re1 Qb8 
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. O-O Bd7 9. Nc3
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. Nc3 Bd7 9. O-O
+white: 57%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qc7 12. Rc1 Ng6 13. Nc5
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4
+white: 57%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 a6 
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nc3 Nxd4 10. Nxd4 Qxd4 11. Nb5 Qxe5 12. Re1
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nc3 Nxd4 10. Nxd4 Qxd4 11. Nb5 Qxe5 12. Re1 Qb8 
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nh6 8. cxd4 Bd7 9. Nc3
+white: 57%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qc7 12. Rc1 Ng6 13. Nc5
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4
+white: 57%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O Qc7 9. Qe2
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. Qe2
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. O-O cxd4 8. cxd4 Bd7 9. Nc3
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nc3 Nxd4 10. Nxd4 Qxd4 11. Nb5 Qxe5 12. Re1
+white: 57%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nc3 Nxd4 10. Nxd4 Qxd4 11. Nb5 Qxe5 12. Re1 Qb8 
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Ne7 10. Nxd4 Qxd4 11. Nb5 Qxe5 
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nc6 10. Re1
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nc6 10. Re1 Bb4 
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. Nbd2 dxc3 10. bxc3 Ng6 11. Nb3
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 dxc3 
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 dxc3 9. Nxc3
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 dxc3 9. Nxc3 Bb4 
+white: 56%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 a6 9. Nbd2 dxc3 
+white: 56%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 a6 9. Nbd2 dxc3 10. bxc3
+white: 56%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Nbd2 dxc3 9. bxc3 Nge7 10. Nb3 Ng6 
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Nbd2 dxc3 9. bxc3 Nge7 10. Nb3 Ng6 11. Re1
+white: 56%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Nbd2 Nge7 9. cxd4
+white: 56%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3
+white: 56%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 Bd7 9. Re1
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 Bd7 9. Re1 Bb4 
+white: 56%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 Nge7 
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nc3 Nxd4 10. Nxd4 Qxd4 11. Nb5 Qxe5 
+white: 56%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nbd2
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. Nbd2 dxc3 10. bxc3 Ng6 11. Nb3
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. Nbd2 dxc3 10. bxc3 Ng6 11. Nb3
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 dxc3 
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 dxc3 9. Nxc3
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 dxc3 9. Nxc3 Bb4 
+white: 56%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 a6 9. Nbd2 dxc3 
+white: 56%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 a6 9. Nbd2 dxc3 10. bxc3
+white: 56%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Nbd2 dxc3 9. bxc3 Nge7 10. Nb3 Ng6 
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Nbd2 dxc3 9. bxc3 Nge7 10. Nb3 Ng6 11. Re1
+white: 56%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Nbd2 Nge7 9. cxd4
+white: 56%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O Qc7 9. Qe2 Nge7 
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nc3 Nxd4 10. Nxd4 Qxd4 11. Nb5 Qxe5 
+white: 56%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nbd2
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. Nbd2 dxc3 10. bxc3 Ng6 11. Nb3
+white: 56%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. dxc5 Qxc5 8. O-O
+white: 55%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. b4
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Ne7 10. Nxd4
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nc6 10. Re1 a6 
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nc6 10. Re1 Bc5 
+white: 55%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 dxc3 9. Nxc3 a6 
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 dxc3 9. Nxc3 Bc5 
+white: 55%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 a6 9. Nbd2
+white: 55%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Nbd2 dxc3 9. bxc3 Nge7 10. Nb3
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 Bd7 9. Re1 a6 
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 Bd7 9. Re1 Bc5 
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nc3 Nxd4 10. Nxd4
+white: 55%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 dxc3 9. Nxc3 a6 
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 dxc3 9. Nxc3 Bc5 
+white: 55%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 a6 9. Nbd2
+white: 55%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Nbd2 dxc3 9. bxc3 Nge7 10. Nb3
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nh6 8. dxc5 Bxc5 
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O Nh6 
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. O-O Bd7 8. dxc5 Bxc5 
+white: 55%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nc3 Nxd4 10. Nxd4
+white: 55%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. dxc5 Qxc5 8. O-O Ng6 
+white: 54%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Qxb4 
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Qxb4 12. Rb1
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Qxb4 
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Qxb4 13. Rb1
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nb4 9. Be2 Rc8 10. Nc3
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Ne7 10. Nxd4 Qxd4 
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nc6 10. Re1 a6 11. a3
+white: 54%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. Nc3
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. Nc3 Bd7 
+white: 54%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Qxb4 
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Qxb4 12. Rb1
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Qxb4 
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Qxb4 13. Rb1
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nb4 9. Be2 Rc8 10. Nc3
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 dxc3 9. Nxc3 a6 10. a3
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Rc8 9. Nbd2 dxc3 
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Rc8 9. Nbd2 dxc3 10. bxc3
+white: 54%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Nbd2 Nge7 
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 Bd7 9. Re1 a6 10. a3
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nc3
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nc3 Nxd4 10. Nxd4 Qxd4 
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nc3 a6 
+white: 54%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Qxb4 
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. b4 Nxf3+ 11. Nxf3 Qxb4 12. Rb1
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Qxb4 
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Bc5 12. b4 Qxb4 13. Rb1
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nb4 9. Be2 Rc8 10. Nc3
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 dxc3 9. Nxc3 a6 10. a3
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Rc8 9. Nbd2 dxc3 
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Rc8 9. Nbd2 dxc3 10. bxc3
+white: 54%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Nbd2 Nge7 
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Rc8 8. dxc5 Bxc5 
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. Nbd2
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. a4 Nge7 10. Na3 Ng6 11. Qe2
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. a4 Nge7 10. Na3 Ng6 11. Qe2 O-O 12. Nb5
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. a4 Nge7 10. Qe2 Ng6 11. Na3
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. a4 Nge7 10. Qe2 Ng6 11. Na3 O-O 12. Nb5
+white: 54%, black: 36%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. Qe2 Nge7 10. Nbd2 Ng6 11. Nb3
+white: 54%, black: 37%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. Qe2 Nge7 10. Nbd2 Ng6 11. Nb3 Be7 
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. Qe2 Nge7 10. a4 Ng6 11. Na3
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. Qe2 Nge7 10. a4 Ng6 11. Na3 O-O 12. Nb5
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nc3
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nc3 Nxd4 10. Nxd4 Qxd4 
+white: 54%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nc3 a6 
+white: 54%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. dxc5 Qxc5 
+white: 53%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qd8 
+white: 53%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nb4 9. Be2
+white: 53%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nb4 9. Be2 Rc8 
+white: 53%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Ne7 
+white: 53%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qd8 
+white: 53%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nb4 9. Be2
+white: 53%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nb4 9. Be2 Rc8 
+white: 53%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 dxc3 9. bxc3
+white: 53%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Rc8 9. Nbd2
+white: 53%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Nbd2
+white: 53%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Nbd2 dxc3 
+white: 53%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Nbd2 dxc3 9. bxc3
+white: 53%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nc3 Nxd4 
+white: 53%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qd8 
+white: 53%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nb4 9. Be2
+white: 53%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nb4 9. Be2 Rc8 
+white: 53%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 dxc3 9. bxc3
+white: 53%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Rc8 9. Nbd2
+white: 53%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Nbd2
+white: 53%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Nbd2 dxc3 
+white: 53%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Nbd2 dxc3 9. bxc3
+white: 53%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. a4 Nge7 10. Na3
+white: 53%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. a4 Nge7 10. Na3 Ng6 
+white: 53%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. a4 Nge7 10. Qe2
+white: 53%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. Qe2 Nge7 10. Nbd2
+white: 53%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. Qe2 Nge7 10. a4
+white: 53%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O Qc7 
+white: 53%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nc3 Nxd4 
+white: 53%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. dxc5
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 13. f4 Nc6 
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nxf3+ 
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 
+white: 52%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Ng5
+white: 52%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nb4 9. Be2 Bb5 
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Rc8 9. Nc3
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nc6 
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nc6 10. Re1 Nge7 11. h4 a6 
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 13. f4 Nc6 
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nxf3+ 
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 
+white: 52%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Ng5
+white: 52%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nb4 9. Be2 Bb5 
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Rc8 9. Nc3
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 dxc3 9. Nxc3 Nge7 10. h4 a6 
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 a6 
+white: 52%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Nge7 9. b4
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 Bd7 
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O dxc3 8. Nxc3 Bd7 9. Re1 Nge7 10. h4 a6 
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 13. f4 Nc6 
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nxf3+ 
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 
+white: 52%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Ng5
+white: 52%, black: 39%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nb4 9. Be2 Bb5 
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Rc8 9. Nc3
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 dxc3 9. Nxc3 Nge7 10. h4 a6 
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 a6 
+white: 52%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Nge7 9. b4
+white: 52%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nge7 8. a3 cxd4 9. b4
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nh6 8. dxc5
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. a4 Nge7 10. Na3 Ng6 11. Qe2 O-O 
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. a4 Nge7 10. Qe2 Ng6 
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. a4 Nge7 10. Qe2 Ng6 11. Na3 O-O 
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. Qe2 Nge7 10. a4 Ng6 
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. Qe2 Nge7 10. a4 Ng6 11. Na3 O-O 
+white: 52%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O Qc7 9. Re1
+white: 52%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. Qc2
+white: 52%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. Qc2 Rc8 
+white: 52%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. O-O Bd7 8. dxc5
+white: 52%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O Bd7 8. a3 cxd4 9. b4
+white: 52%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 
+white: 52%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3
+white: 52%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Rc8 10. Nc3
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Qb6 
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2
+white: 51%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nxf3+ 10. Nxf3
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nc6 10. Nb3
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 
+white: 51%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. O-O Bd7 
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4 O-O 13. Be3
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4 O-O 13. Be3
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4 O-O 14. Be3
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4 O-O 14. Be3
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Qb6 
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2
+white: 51%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nxf3+ 10. Nxf3
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 
+white: 51%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3
+white: 51%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. h4 Nf5 10. Bxf5 exf5 11. cxd4
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Nbd2 dxc3 9. bxc3 Nge7 
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nc3 Ng6 
+white: 51%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. h4 Nf5 10. Bxf5 exf5 11. cxd4
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nh6 8. cxd4 Bd7 
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Qb6 
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2
+white: 51%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nxf3+ 10. Nxf3
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 
+white: 51%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3
+white: 51%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. h4 Nf5 10. Bxf5 exf5 11. cxd4
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Nbd2 dxc3 9. bxc3 Nge7 
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Rc8 8. dxc5
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nge7 8. dxc5
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nge7 8. dxc5 Qxc5 
+white: 51%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nge7 8. a3
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nh6 8. a3
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nh6 8. a3 cxd4 
+white: 51%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. a4 Nge7 
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. Qe2
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. Qe2 Nge7 
+white: 51%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. Qe2 Nge7 10. Nbd2 Ng6 
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. O-O cxd4 8. cxd4 Bd7 
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. O-O Bd7 8. a3
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. O-O Bd7 8. a3 cxd4 
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. a3 Bd7 8. O-O
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. a3 Bd7 8. O-O cxd4 
+white: 51%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O Bd7 8. dxc5
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O Bd7 8. dxc5 Qxc5 
+white: 51%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O Bd7 8. a3
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nc3 Ng6 
+white: 51%, black: 38%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. h4 Nf5 10. Bxf5 exf5 11. cxd4
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. dxc5 Qxc5 8. O-O Bd7 
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4 O-O 14. Be3
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4 O-O 14. Be3
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4 O-O 13. Be3
+white: 51%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4 O-O 13. Be3
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qc7 
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qc7 12. Rc1
+white: 50%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qc7 12. Rc1 Ng6 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Ne7 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Ne7 10. Nxd4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Ne7 10. Nxd4 Qxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Ne7 10. Nxd4 Qxd4 11. Nf3
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. Nxd4
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Rc8 
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4 a6 
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4 a6 
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4 a6 
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4 a6 
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qc7 
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qc7 12. Rc1
+white: 50%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qc7 12. Rc1 Ng6 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Ne7 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Ne7 10. Nxd4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Ne7 10. Nxd4 Qxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Ne7 10. Nxd4 Qxd4 11. Nf3
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Rc8 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. h4
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. h4 Rc8 10. a3
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. Nbd2
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. Nbd2 dxc3 
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. Nbd2 dxc3 10. bxc3
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. a3 Rc8 10. h4
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Rc8 
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Rc8 9. a3 Nge7 10. h4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 a6 9. a3
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Nbd2 Nge7 9. cxd4 Nxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Nbd2 Nge7 9. cxd4 Nxd4 10. Nxd4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Nbd2 Nge7 9. cxd4 Nxd4 10. Nxd4 Qxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Nbd2 Nge7 9. cxd4 Nxd4 10. Nxd4 Qxd4 11. Nf3
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Nge7 9. Re1 Rc8 10. h4
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Rc8 9. Re1 Nge7 10. h4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nbd2 Nxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nbd2 Nxd4 10. Nxd4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nbd2 Nxd4 10. Nxd4 Qxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Bd7 9. Nbd2 Nxd4 10. Nxd4 Qxd4 11. Nf3
+white: 50%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. h4
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. h4 Rc8 10. a3
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. Nbd2
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. Nbd2 dxc3 
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. Nbd2 dxc3 10. bxc3
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. a3 Rc8 10. h4
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qc7 
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qc7 12. Rc1
+white: 50%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nc6 10. Nb3 Nge7 11. Be3 Qc7 12. Rc1 Ng6 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Ne7 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Ne7 10. Nxd4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Ne7 10. Nxd4 Qxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Ne7 10. Nxd4 Qxd4 11. Nf3
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Rc8 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. h4
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. h4 Rc8 10. a3
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. Nbd2
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. Nbd2 dxc3 
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. Nbd2 dxc3 10. bxc3
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. a3 Rc8 10. h4
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Rc8 
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Rc8 9. a3 Nge7 10. h4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 a6 9. a3
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Nbd2 Nge7 9. cxd4 Nxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Nbd2 Nge7 9. cxd4 Nxd4 10. Nxd4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Nbd2 Nge7 9. cxd4 Nxd4 10. Nxd4 Qxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Nbd2 Nge7 9. cxd4 Nxd4 10. Nxd4 Qxd4 11. Nf3
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Nge7 9. Re1 Rc8 10. h4
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Rc8 9. Re1 Nge7 10. h4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Rc8 8. a3
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Rc8 8. a3 cxd4 9. Re1 Nge7 10. h4
+white: 50%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nge7 
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nge7 8. a3 cxd4 9. Re1 Rc8 10. h4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. a4
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O a5 9. Qe2 Nge7 10. Nbd2 a4 
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Qc7 
+white: 50%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O Bd7 
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O Bd7 8. a3 cxd4 9. Re1 Rc8 10. h4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nbd2 Nxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nbd2 Nxd4 10. Nxd4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nbd2 Nxd4 10. Nxd4 Qxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Bd7 9. Nbd2 Nxd4 10. Nxd4 Qxd4 11. Nf3
+white: 50%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. h4
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. h4 Rc8 10. a3
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. Nbd2
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. Nbd2 dxc3 
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. Nbd2 dxc3 10. bxc3
+white: 50%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. a3 Rc8 10. h4
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O Ng6 
+white: 50%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 Bd7 
+white: 50%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4 a6 
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4 a6 
+white: 50%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Rc8 
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4 a6 
+white: 50%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4 a6 
+white: 49%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3
+white: 49%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nc6 
+white: 49%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Ne7 
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nb4 
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4 O-O 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. b4
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4 O-O 
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4 O-O 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. b4
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4 O-O 
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nc6 
+white: 49%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Ne7 
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nb4 
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. h4 h6 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. h4 h6 10. h5
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. h4 Rc8 10. h5 h6 
+white: 49%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. h4 Rc8 10. Nbd2
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. h4 Nf5 10. Bxf5
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. h4 Nf5 10. Bxf5 exf5 
+white: 49%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. Nbd2 dxc3 10. bxc3 Ng6 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Rc8 9. a3
+white: 49%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Nge7 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Rc8 9. Re1
+white: 49%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. h4 h6 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. h4 h6 10. h5
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. h4 Rc8 10. h5 h6 
+white: 49%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. h4 Rc8 10. Nbd2
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. h4 Nf5 10. Bxf5
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. h4 Nf5 10. Bxf5 exf5 
+white: 49%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. Nbd2 dxc3 10. bxc3 Ng6 
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nc6 
+white: 49%, black: 42%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Bc5 10. Nxd4 Bxd4 11. Nf3 Ne7 
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nb4 
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. h4 h6 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. h4 h6 10. h5
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. h4 Rc8 10. h5 h6 
+white: 49%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. h4 Rc8 10. Nbd2
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. h4 Nf5 10. Bxf5
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. h4 Nf5 10. Bxf5 exf5 
+white: 49%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. Nbd2 dxc3 10. bxc3 Ng6 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Rc8 9. a3
+white: 49%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Nge7 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Rc8 9. Re1
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Rc8 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Rc8 8. a3 cxd4 9. Re1
+white: 49%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nge7 8. a3 cxd4 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. dxc5 Bxc5 8. O-O
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. dxc5 Bxc5 8. O-O Nf5 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. a3 Bd7 
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. a3 Bd7 8. Bc2
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. a3 Nf5 
+white: 49%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 
+white: 49%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O Bd7 8. a3 cxd4 
+white: 49%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. h4 h6 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. h4 h6 10. h5
+white: 49%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. h4 Rc8 10. h5 h6 
+white: 49%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. h4 Rc8 10. Nbd2
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. h4 Nf5 10. Bxf5
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. h4 Nf5 10. Bxf5 exf5 
+white: 49%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. Nbd2 dxc3 10. bxc3 Ng6 
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4 O-O 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. b4
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4 O-O 
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4 O-O 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. b4
+white: 49%, black: 41%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4 O-O 
+white: 49%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 Nf5 
+white: 48%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Be3 Qxe5 12. Re1
+white: 48%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Kh1
+white: 48%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Kh1 Nc6 
+white: 48%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Kh1 Nc6 12. f4
+white: 48%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Be3 Qxe5 12. Re1
+white: 48%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Be3 Qxe5 12. Re1
+white: 48%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O
+white: 48%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Be3 Qxe5 12. Re1
+white: 48%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4 O-O 13. Na4
+white: 48%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O a5 12. Na4
+white: 48%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4 O-O 13. Na4
+white: 48%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 a5 12. Na4
+white: 48%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4 O-O 14. Na4
+white: 48%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O a5 13. Na4
+white: 48%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4 O-O 14. Na4
+white: 48%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 a5 13. Na4
+white: 48%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Be3 Qxe5 12. Re1
+white: 48%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Kh1
+white: 48%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Kh1 Nc6 
+white: 48%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Kh1 Nc6 12. f4
+white: 48%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. h4 Rc8 
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. a3 Rc8 
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Rc8 9. a3 Nge7 
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Nge7 9. Re1 Rc8 
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Rc8 9. Re1 Nge7 
+white: 48%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. h4 Rc8 
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. a3 Rc8 
+white: 48%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Be3 Qxe5 12. Re1
+white: 48%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Kh1
+white: 48%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Kh1 Nc6 
+white: 48%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Kh1 Nc6 12. f4
+white: 48%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. h4 Rc8 
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. a3 Rc8 
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Rc8 9. a3 Nge7 
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Nge7 9. Re1 Rc8 
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Rc8 9. Re1 Nge7 
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Rc8 8. a3 cxd4 9. Re1 Nge7 
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nge7 8. a3 cxd4 9. Re1 Rc8 
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. dxc5
+white: 48%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. dxc5 Bxc5 
+white: 48%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O Bd7 8. a3 cxd4 9. Re1 Rc8 
+white: 48%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. h4 Rc8 
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. a3 Rc8 
+white: 48%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 Bd7 8. Bc2
+white: 48%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 
+white: 48%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4 O-O 14. Na4
+white: 48%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O a5 13. Na4
+white: 48%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4 O-O 14. Na4
+white: 48%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 a5 13. Na4
+white: 48%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4 O-O 13. Na4
+white: 48%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O a5 12. Na4
+white: 48%, black: 40%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4 O-O 13. Na4
+white: 48%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 a5 12. Na4
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Kh1
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Be3
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Be3 Qxe5 
+white: 47%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 13. f4 g6 14. Be3
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Kh1
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Be3
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Be3 Qxe5 
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Kh1
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Be3
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Be3 Qxe5 
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Kh1
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Be3
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Be3 Qxe5 
+white: 47%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. O-O
+white: 47%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3
+white: 47%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 
+white: 47%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4
+white: 47%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4
+white: 47%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2
+white: 47%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3
+white: 47%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 
+white: 47%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4
+white: 47%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Kh1
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Be3
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Be3 Qxe5 
+white: 47%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 13. f4 g6 14. Be3
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. h4 Rc8 10. h5
+white: 47%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. h4 a6 
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. a3
+white: 47%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Rc8 9. h4
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Nge7 9. Re1
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. h4 Rc8 10. h5
+white: 47%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. h4 a6 
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. a3
+white: 47%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nh6 8. cxd4
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Kh1
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Be3
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Be3 Qxe5 
+white: 47%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 13. f4 g6 14. Be3
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. h4 Rc8 10. h5
+white: 47%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. h4 a6 
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. a3
+white: 47%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Rc8 9. h4
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Nge7 9. Re1
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nge7 8. Bc2
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nge7 8. a3 cxd4 9. Re1
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nh6 
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. O-O
+white: 47%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. O-O cxd4 8. cxd4
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. O-O Bd7 
+white: 47%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. dxc5 Bxc5 8. O-O Ng4 9. Qe2
+white: 47%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. a3
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O Bd7 8. Bc2
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O Bd7 8. a3 cxd4 9. Re1
+white: 47%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. h4 Rc8 10. h5
+white: 47%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. h4 a6 
+white: 47%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. a3
+white: 47%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3
+white: 47%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 
+white: 47%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4
+white: 47%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4
+white: 47%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3
+white: 47%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 
+white: 47%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4
+white: 47%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4
+white: 46%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4
+white: 46%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 
+white: 46%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3
+white: 46%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2
+white: 46%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3
+white: 46%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4
+white: 46%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 
+white: 46%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O
+white: 46%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4
+white: 46%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. O-O Nf5 
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 
+white: 46%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 
+white: 46%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 
+white: 46%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5
+white: 46%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 
+white: 46%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O
+white: 46%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 
+white: 46%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4
+white: 46%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 
+white: 46%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3
+white: 46%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1 Nge7 9. h4 Nf5 
+white: 46%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Rc8 
+white: 46%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Rc8 9. cxd4
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. cxd4 Nf5 
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7 8. Re1 Bd7 9. h4 Nf5 
+white: 46%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nh6 
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nh6 8. cxd4 Nf5 
+white: 46%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4
+white: 46%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 
+white: 46%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3
+white: 46%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. Re1 Nge7 9. h4 Nf5 
+white: 46%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Rc8 
+white: 46%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Rc8 9. cxd4
+white: 46%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Rc8 8. a3 cxd4 
+white: 46%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Rc8 8. a3 cxd4 9. cxd4
+white: 46%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. O-O cxd4 
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. O-O cxd4 8. cxd4 Nf5 
+white: 46%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. dxc5 Bxc5 8. O-O Ng4 
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. cxd4 Nf5 
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O cxd4 8. Re1 Bd7 9. h4 Nf5 
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 
+white: 46%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5
+white: 46%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 
+white: 46%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O
+white: 46%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 
+white: 46%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Rc8 10. O-O
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5
+white: 46%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 
+white: 46%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 
+white: 46%, black: 44%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 
+white: 45%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 Qb6 
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 
+white: 45%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 13. f4
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O Qb6 
+white: 45%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O a5 
+white: 45%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Rc8 
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 a5 
+white: 45%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Rc8 
+white: 45%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O a5 
+white: 45%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Rc8 
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 a5 
+white: 45%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Rc8 
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 Qb6 
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 
+white: 45%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 13. f4
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Rc8 9. cxd4 Nxd4 10. Nxd4 Qxd4 11. Nc3
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 Qb6 
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 
+white: 45%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 13. f4
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Rc8 9. cxd4 Nxd4 10. Nxd4 Qxd4 11. Nc3
+white: 45%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Rc8 8. a3 cxd4 9. cxd4 Nxd4 10. Nxd4 Qxd4 11. Nc3
+white: 45%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. O-O Nf5 
+white: 45%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. a3 cxd4 
+white: 45%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O Nf5 
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O a5 
+white: 45%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Rc8 
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 a5 
+white: 45%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Rc8 
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O a5 
+white: 45%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Rc8 
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3
+white: 45%, black: 45%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 a5 
+white: 45%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Rc8 
+white: 44%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 
+white: 44%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 11. Be3
+white: 44%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4 O-O 13. Na4 Qd8 
+white: 44%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O
+white: 44%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4 O-O 13. Na4 Qd8 
+white: 44%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. b4
+white: 44%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4 O-O 14. Na4 Qd8 
+white: 44%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4 O-O 14. Na4 Qd8 
+white: 44%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. b4
+white: 44%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 11. Be3
+white: 44%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Rc8 9. cxd4 Nxd4 
+white: 44%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Rc8 9. cxd4 Nxd4 10. Nxd4
+white: 44%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Rc8 9. cxd4 Nxd4 10. Nxd4 Qxd4 
+white: 44%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 11. Be3
+white: 44%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Rc8 9. cxd4 Nxd4 
+white: 44%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Rc8 9. cxd4 Nxd4 10. Nxd4
+white: 44%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Rc8 9. cxd4 Nxd4 10. Nxd4 Qxd4 
+white: 44%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Rc8 8. a3 cxd4 9. cxd4 Nxd4 
+white: 44%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Rc8 8. a3 cxd4 9. cxd4 Nxd4 10. Nxd4
+white: 44%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Rc8 8. a3 cxd4 9. cxd4 Nxd4 10. Nxd4 Qxd4 
+white: 44%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4 O-O 14. Na4 Qd8 
+white: 44%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4 O-O 14. Na4 Qd8 
+white: 44%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. b4
+white: 44%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4 O-O 13. Na4 Qd8 
+white: 44%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O
+white: 44%, black: 43%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4 O-O 13. Na4 Qd8 
+white: 44%, black: 46%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. b4
+white: 43%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 
+white: 43%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1
+white: 43%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 13. f4 g6 
+white: 43%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Ng5 Nc6 
+white: 43%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 
+white: 43%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 
+white: 43%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 
+white: 43%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 
+white: 43%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4 h6 
+white: 43%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O h6 12. b4
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O h6 12. b4 Be7 
+white: 43%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4 h6 
+white: 43%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 h6 12. b4
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 h6 12. b4 Be7 
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4 h6 
+white: 43%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O h6 13. b4
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O h6 13. b4 Be7 
+white: 43%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4 h6 
+white: 43%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 h6 13. b4
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 h6 13. b4 Be7 
+white: 43%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 
+white: 43%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1
+white: 43%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 13. f4 g6 
+white: 43%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Ng5 Nc6 
+white: 43%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 
+white: 43%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1
+white: 43%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Qb6 13. f4 g6 
+white: 43%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Ng5 Nc6 
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4 h6 
+white: 43%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O h6 13. b4
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O h6 13. b4 Be7 
+white: 43%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4 h6 
+white: 43%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 h6 13. b4
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 h6 13. b4 Be7 
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4 h6 
+white: 43%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O h6 12. b4
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O h6 12. b4 Be7 
+white: 43%, black: 48%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4 h6 
+white: 43%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 h6 12. b4
+white: 43%, black: 47%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 h6 12. b4 Be7 
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Ne7 12. Be3
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Qb6 
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3
+white: 42%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 
+white: 42%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Nc6 
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3 a6 12. Be3
+white: 42%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Re1 Ne7 12. Be3
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Re1 Qb6 
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Re1 Ne7 12. Be3
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Re1 Qb6 
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Re1 Ne7 12. Be3
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Re1 Qb6 
+white: 42%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O h6 
+white: 42%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 h6 
+white: 42%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O h6 
+white: 42%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 h6 
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Ne7 12. Be3
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Qb6 
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3
+white: 42%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 
+white: 42%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Nc6 
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3 a6 12. Be3
+white: 42%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Nge7 9. cxd4
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Ne7 12. Be3
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Qb6 
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3
+white: 42%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 
+white: 42%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Kh1 Nc6 
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3 a6 12. Be3
+white: 42%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Nge7 9. cxd4
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nge7 8. a3 cxd4 9. cxd4
+white: 42%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O Bd7 8. a3 cxd4 9. cxd4
+white: 42%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O h6 
+white: 42%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 h6 
+white: 42%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O h6 
+white: 42%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 h6 
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2
+white: 41%, black: 53%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Ne7 12. Be3 Qxe5 
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3 a6 12. Be3 Qxe5 
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 11. Be3 Qa6 
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 11. Be3 Qa6 12. Bxb5+
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 11. Be3 Qa6 12. Bxb5+ Qxb5 
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Qe2
+white: 41%, black: 53%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Re1
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Re1 Ne7 12. Be3 Qxe5 
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nxf3+ 10. Qxf3 a6 
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Qe2
+white: 41%, black: 53%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Re1
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Re1 Ne7 12. Be3 Qxe5 
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Qe2
+white: 41%, black: 53%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Re1
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Re1 Ne7 12. Be3 Qxe5 
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4 h6 13. Na4
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O h6 12. b4 Be7 13. Na4
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4 h6 13. Na4
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 h6 12. b4 Be7 13. Na4
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4 h6 14. Na4
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O h6 13. b4 Be7 14. Na4
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4 h6 14. Na4
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Nh6 8. a3 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 h6 13. b4 Be7 14. Na4
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2
+white: 41%, black: 53%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Ne7 12. Be3 Qxe5 
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3 a6 12. Be3 Qxe5 
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 11. Be3 Qa6 
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 11. Be3 Qa6 12. Bxb5+
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 11. Be3 Qa6 12. Bxb5+ Qxb5 
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2
+white: 41%, black: 53%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Ne7 12. Be3 Qxe5 
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3
+white: 41%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3 a6 12. Be3 Qxe5 
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 11. Be3 Qa6 
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 11. Be3 Qa6 12. Bxb5+
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nbd2 Nxf3+ 10. Nxf3 Bb5 11. Be3 Qa6 12. Bxb5+ Qxb5 
+white: 41%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nh6 7. Bxh6
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O Be7 13. b4 h6 14. Na4
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. Nc3 Be6 12. O-O h6 13. b4 Be7 14. Na4
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 Be7 13. b4 h6 14. Na4
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Bd7 9. Bc2 Nf5 10. Bxf5 exf5 11. O-O Be6 12. Nc3 h6 13. b4 Be7 14. Na4
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O Be7 12. b4 h6 13. Na4
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. Nc3 Be6 11. O-O h6 12. b4 Be7 13. Na4
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 Be7 12. b4 h6 13. Na4
+white: 41%, black: 49%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. a3 cxd4 8. cxd4 Nf5 9. Bxf5 exf5 10. O-O Be6 11. Nc3 h6 12. b4 Be7 13. Na4
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Kh1 Qxe5 
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Re1
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Kh1 Qxe5 
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nxf3+ 10. Qxf3
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Kh1 Qxe5 
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Kh1 Qxe5 
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Kh1 Qxe5 
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Re1
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3 Nge7 9. cxd4 Nxd4 
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Kh1 Qxe5 
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Re1
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. a3 Nge7 9. cxd4 Nxd4 
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O Nge7 8. a3 cxd4 9. cxd4 Nxd4 
+white: 40%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Nge7 7. O-O Bd7 8. a3 cxd4 9. cxd4 Nxd4 
+white: 39%, black: 55%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Ne7 
+white: 39%, black: 55%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 
+white: 39%, black: 55%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3 a6 
+white: 39%, black: 55%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Re1 Ne7 
+white: 39%, black: 54%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nxf3+ 
+white: 39%, black: 55%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O Nxf3+ 10. Qxf3 Ne7 
+white: 39%, black: 55%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Re1 Ne7 
+white: 39%, black: 55%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Re1 Ne7 
+white: 39%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Be2
+white: 39%, black: 55%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Ne7 
+white: 39%, black: 55%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 
+white: 39%, black: 55%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3 a6 
+white: 39%, black: 55%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Ne7 
+white: 39%, black: 55%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 
+white: 39%, black: 55%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3 a6 
+white: 38%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Be2 Nge7 9. Nc3 Nf5 10. Na4
+white: 37%, black: 53%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1
+white: 37%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6 Qxe5 14. Bxb7
+white: 37%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Be2 Nge7 9. Nc3
+white: 37%, black: 53%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1
+white: 37%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6 Qxe5 14. Bxb7
+white: 37%, black: 53%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1
+white: 37%, black: 50%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6 Qxe5 14. Bxb7
+white: 36%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Ne7 12. Qf3
+white: 36%, black: 53%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 
+white: 36%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6 Qxe5 14. Bxb7 Qxe2 
+white: 36%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6 Qxe5 14. Bxb7 Qxe2 15. Nxe2
+white: 36%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3 a6 12. Qf3
+white: 36%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Re1 Ne7 12. Qf3
+white: 36%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Re1 Ne7 12. Qf3
+white: 36%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Re1 Ne7 12. Qf3
+white: 36%, black: 55%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Be2 Nge7 
+white: 36%, black: 53%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Be2 Nge7 9. Nc3 Nf5 
+white: 36%, black: 56%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Be2 Nh6 
+white: 36%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Ne7 12. Qf3
+white: 36%, black: 53%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 
+white: 36%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6 Qxe5 14. Bxb7 Qxe2 
+white: 36%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6 Qxe5 14. Bxb7 Qxe2 15. Nxe2
+white: 36%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3 a6 12. Qf3
+white: 36%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Ne7 12. Qf3
+white: 36%, black: 53%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 
+white: 36%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6 Qxe5 14. Bxb7 Qxe2 
+white: 36%, black: 51%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6 Qxe5 14. Bxb7 Qxe2 15. Nxe2
+white: 36%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Re1 Ne7 11. Nc3 a6 12. Qf3
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Rc8 12. Kh1
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Rc8 12. Be3
+white: 35%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6
+white: 35%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6 Qxe5 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3 Rc8 12. Kh1
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Qe2 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Qe2 Rc8 12. Kh1
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Re1 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Re1 Rc8 12. Be3
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Qe2 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Qe2 Rc8 12. Kh1
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Re1 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Re1 Rc8 12. Be3
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Qe2 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Qe2 Rc8 12. Kh1
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Re1 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Re1 Rc8 12. Be3
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Rc8 12. Kh1
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Rc8 12. Be3
+white: 35%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6
+white: 35%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6 Qxe5 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3 Rc8 12. Kh1
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Rc8 12. Kh1
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Rc8 12. Be3
+white: 35%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6
+white: 35%, black: 52%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 Ne7 11. Nc3 a6 12. Rd1 Nc6 13. Bxa6 Qxe5 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3 Rc8 
+white: 35%, black: 58%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3 Rc8 12. Kh1
+white: 33%, black: 60%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Rc8 12. Kh1 Bc5 
+white: 33%, black: 60%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3 Rc8 12. Kh1 Bc5 
+white: 33%, black: 60%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Qe2 Rc8 12. Kh1 Bc5 
+white: 33%, black: 60%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Qe2 Rc8 12. Kh1 Bc5 
+white: 33%, black: 60%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Qe2 Rc8 12. Kh1 Bc5 
+white: 33%, black: 60%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Rc8 12. Kh1 Bc5 
+white: 33%, black: 60%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3 Rc8 12. Kh1 Bc5 
+white: 33%, black: 60%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Rc8 12. Kh1 Bc5 
+white: 33%, black: 60%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3 Rc8 12. Kh1 Bc5 
+white: 32%, black: 61%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Rc8 12. Kh1 Bc5 13. f4
+white: 32%, black: 62%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Be3 Qxe5 12. Re1 Nf6 
+white: 32%, black: 61%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3 Rc8 12. Kh1 Bc5 13. f4
+white: 32%, black: 61%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Qe2 Rc8 12. Kh1 Bc5 13. f4
+white: 32%, black: 62%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Be3 Qxe5 12. Re1 Nf6 
+white: 32%, black: 61%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Qe2 Rc8 12. Kh1 Bc5 13. f4
+white: 32%, black: 62%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 Nxd4 9. O-O a6 10. Nxd4 Qxd4 11. Be3 Qxe5 12. Re1 Nf6 
+white: 32%, black: 61%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Qe2 Rc8 12. Kh1 Bc5 13. f4
+white: 32%, black: 62%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3 a6 9. O-O Nxd4 10. Nxd4 Qxd4 11. Be3 Qxe5 12. Re1 Nf6 
+white: 32%, black: 61%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Rc8 12. Kh1 Bc5 13. f4
+white: 32%, black: 62%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Be3 Qxe5 12. Re1 Nf6 
+white: 32%, black: 61%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3 Rc8 12. Kh1 Bc5 13. f4
+white: 32%, black: 61%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Qe2 Rc8 12. Kh1 Bc5 13. f4
+white: 32%, black: 62%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Be3 Qxe5 12. Re1 Nf6 
+white: 32%, black: 61%, pgn:1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. O-O cxd4 8. cxd4 Nxd4 9. Nxd4 Qxd4 10. Qe2 a6 11. Nc3 Rc8 12. Kh1 Bc5 13. f4
