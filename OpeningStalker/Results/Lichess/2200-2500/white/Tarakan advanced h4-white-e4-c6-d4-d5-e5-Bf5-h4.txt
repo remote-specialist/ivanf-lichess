@@ -1,222 +1,1295 @@
-white: 64%, black: 29%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Nd7 9. Ngf3 Be7 10. O-O
-white: 62%, black: 31%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Nd7 9. Ngf3 Be7 
+white: 83%, black: 16%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 a6 6. h5 h6 7. g4 Bd7 8. f4 e6 
+white: 81%, black: 18%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 a6 6. h5 h6 7. g4 Bd7 8. f4
+white: 80%, black: 20%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Nd7 6. Nc3
+white: 80%, black: 20%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Ng6 8. Bg5
+white: 73%, black: 26%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Be2 Bxe2 7. Qxe2 e6 8. Bg5
+white: 72%, black: 27%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 Bd7 6. c3
+white: 72%, black: 22%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. f3 Be6 7. Ne2
+white: 72%, black: 27%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 Nh6 8. Bxh6
+white: 72%, black: 22%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. h5 Bh7 8. e6 f6 
+white: 71%, black: 28%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 c5 7. c3
+white: 70%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Bg5 Ne7 8. Qb3
+white: 69%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Ne2 e6 
+white: 69%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 Bd7 6. c3 e6 
+white: 69%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 Bxb1 6. Rxb1 e6 7. c5
+white: 69%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. h5 c5 8. dxc5
+white: 69%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. h5 c5 8. dxc5 Bxc5 
+white: 68%, black: 27%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Nd7 6. Bd3
+white: 68%, black: 27%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Nd7 6. Bd3 Bxd3 
+white: 68%, black: 27%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Nd7 6. Bd3 Bxd3 7. Qxd3
+white: 68%, black: 31%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Nf6 8. Nc3
+white: 67%, black: 31%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3 Bxd3 7. Qxd3 e6 8. Ne2
+white: 67%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. c4 dxc4 6. Nc3 h5 7. Bxc4 e6 8. Nf3
+white: 66%, black: 29%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Nd7 
+white: 66%, black: 29%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. c4
+white: 66%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Ne2
+white: 66%, black: 23%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 a6 6. h5 h6 
+white: 66%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Qd7 6. Bg5 g6 7. Ne2
+white: 66%, black: 27%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 h5 7. f3
+white: 66%, black: 26%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 a6 6. h5 h6 7. g4
+white: 66%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Nd7 6. Bd3 Bxd3 7. Qxd3 Qa5+ 8. Nd2
+white: 66%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Qb3 Qb6 8. a3
+white: 66%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 Nh6 8. Bxh6 Rxh6 
+white: 65%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Nh6 6. Bxh6 Bxd3 7. Qxd3 Rxh6 8. Nf3
+white: 65%, black: 29%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Ne7 8. cxd5
+white: 65%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6 Nf6 8. h5
+white: 65%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 Qa6 8. c4
+white: 65%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Nf3 Na6 8. c3 Nc7 
+white: 65%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. h5 Bh7 8. c4 e6 
+white: 64%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Bd2 Qb6 8. e6
+white: 64%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Nd7 6. Bd3 Bxd3 7. Qxd3 Qa5+ 8. Bd2
+white: 64%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Bg5 Qa5 8. Ne2
+white: 64%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. Nge2 dxc4 8. Ng3
+white: 64%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qa5+ 7. Nc3 Bb4 8. Ne2
+white: 64%, black: 28%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. h5 Bh7 8. Nc3
+white: 64%, black: 28%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 exd5 8. Nge2 Ne7 
+white: 63%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 Bh7 
+white: 63%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Nh6 6. Bxh6
+white: 63%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Ne2
+white: 63%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Nh6 6. Bxh6 Bxd3 
+white: 63%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. Bd3 g6 
+white: 63%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Nf3 Na6 8. Qd3
+white: 63%, black: 27%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nf3 Nd7 8. O-O
+white: 63%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 cxd5 8. Bd3 Ne7 
+white: 62%, black: 25%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 a6 6. h5
+white: 62%, black: 31%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 g6 6. Nc3 Bh6 
+white: 62%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Nh6 6. Bxh6 Bxd3 7. Qxd3
+white: 62%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Be2 e6 7. Bxg4
+white: 62%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 Nd7 7. Nf3
+white: 62%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Nh6 6. Bxh6 Bxd3 7. Qxd3 Rxh6 
+white: 62%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Be2 e6 7. Bxg4 hxg4 
+white: 62%, black: 31%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3 Bxd3 7. Qxd3 e6 8. c4
+white: 62%, black: 31%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 exd5 8. Nf3
+white: 62%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Be7 8. g3
+white: 62%, black: 31%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 Qb6 8. Nc3
+white: 62%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 Qb6 6. Bd3 Bxd3 7. Qxd3 e6 8. Nd2
+white: 62%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. g4 Bh7 7. e6 fxe6 8. Bd3
+white: 62%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3 Bxd3 7. Qxd3 e6 8. Ne2 Nd7 
 white: 62%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. h5 Bh7 8. e6 fxe6 
-white: 62%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. h5 Bh7 8. e6 fxe6 9. Bd3
-white: 60%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Nd7 9. Ngf3
-white: 60%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3 Nd7 9. Nbd2
+white: 62%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6 fxe6 8. Bd3 Bxd3 
+white: 62%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6 fxe6 8. h5 Bh7 
+white: 61%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. Nf3
+white: 61%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qb6 7. Qd2
+white: 61%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qa5+ 7. Nc3
+white: 61%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 Qc8 7. Be2
+white: 61%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. cxd3 e6 7. h5
+white: 61%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 a6 7. Bd3
+white: 61%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. Nf3 e6 7. Bd3
+white: 61%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Nd7 6. Bd3 Bxd3 7. Qxd3 Qa5+ 
+white: 61%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Ng6 
+white: 61%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 Qc8 7. Be2 dxc4 
+white: 61%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 fxe5 7. Bxe5 Nd7 8. Nf3
+white: 61%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 Nd7 8. cxd5
+white: 61%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. Ng3 Bg4 
+white: 61%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 exd5 8. Bg5 Qb6 
+white: 61%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. Ng3 Bg4 
+white: 61%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 Nd7 8. cxd5 cxd5 
+white: 61%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 Qb6 8. Na4 Qc7 
+white: 60%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3
+white: 60%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bc8 6. Nc3
+white: 60%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 Qb6 6. Bd3
+white: 60%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3 Bxd3 
+white: 60%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qb6 
+white: 60%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. a3
+white: 60%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3 Bxd3 7. Qxd3
+white: 60%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 b5 7. Nge2
+white: 60%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 Qc8 7. Bh3
+white: 60%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bc8 6. c4 dxc4 7. Bxc4
+white: 60%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 a6 7. Nge2
+white: 60%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. g4 Bh7 7. e6
+white: 60%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 Qc7 7. Nc3
+white: 60%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3 Bxd3 7. Qxd3 e6 
+white: 60%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Ne2 dxc4 
+white: 60%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 h5 7. Be2 hxg4 
+white: 60%, black: 31%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Be2 Bxe2 7. Nxe2 e6 8. Bg5
+white: 60%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Be2 e6 7. Bxg4 hxg4 8. Qxg4
+white: 60%, black: 31%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3 Bxd3 7. Qxd3 e6 8. Nd2
+white: 60%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qa5 8. Qd2
+white: 60%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Bg6 8. Bg5
 white: 60%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 cxd5 8. Bd3
-white: 59%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nf5 10. O-O
-white: 59%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nf5 10. O-O
-white: 59%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nf5 10. O-O
+white: 60%, black: 31%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 cxd5 8. Bg5
+white: 60%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 exd5 8. Nge2
+white: 60%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 exd5 8. Bg5
+white: 60%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Qb3 Na6 8. a3
+white: 60%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qa5+ 7. Nc3 Ne7 8. Qd2
+white: 60%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. h5 Bh7 8. c4
+white: 60%, black: 31%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 cxd5 8. Bg5 Qb6 
+white: 60%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 exd5 8. Bg5 Be7 
+white: 60%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Be7 8. cxd5 exd5 
+white: 60%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Ne2 Ne7 8. Ng3 Nd7 
+white: 60%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. cxd5 cxd5 8. Ne2 Nc6 
+white: 59%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 
+white: 59%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 g6 
+white: 59%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4
+white: 59%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 g6 6. Nc3
+white: 59%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 Nd7 
+white: 59%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 Nd7 7. Bd3
+white: 59%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 g6 6. Nc3 e6 7. Bg5
+white: 59%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Ne7 7. g4
+white: 59%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Ne7 
+white: 59%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Ne7 7. Bd3 Bxd3 
+white: 59%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. g4 Bh7 7. e6 fxe6 
+white: 59%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3 Bxd3 7. Qxd3 e6 8. Nf3
+white: 59%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 cxd5 8. Nf3
+white: 59%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Ne2 dxc4 8. Ng3
+white: 59%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. c3 Nc6 8. Na3
+white: 59%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 Qc7 8. h5
 white: 59%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. h5 Bh7 8. e6
-white: 58%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3
-white: 58%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nf5 
-white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nd7 10. O-O
-white: 58%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ne2 Nf5 
-white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Nd7 
-white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Nd7 9. Ngf3 Ne7 10. O-O
-white: 58%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2
-white: 58%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nf5 
-white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nd7 10. O-O
-white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3 Nd7 
-white: 58%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2
-white: 58%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nf5 
-white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nd7 10. O-O
+white: 59%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6 fxe6 8. h5
+white: 59%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 Ne7 7. Nc3 Nd7 8. cxd5
+white: 59%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nc3 Nd7 
+white: 59%, black: 25%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nc3 Qc7 
+white: 59%, black: 31%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Nf3 Na6 8. Qd3 g6 
+white: 59%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Bg5 Qc7 
+white: 59%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Bg5 Qc7 
+white: 59%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 8. Bg5 Qc7 
 white: 58%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 
 white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3
-white: 57%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2
-white: 57%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 
-white: 57%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nd7 
-white: 57%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Nd7 9. Ngf3 Ne7 
-white: 57%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nd7 
-white: 57%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 
-white: 57%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nd7 
+white: 58%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 c5 6. c3
+white: 58%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 Qb6 6. Nc3
+white: 58%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bc8 6. c4 dxc4 
+white: 58%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 h5 7. Be2
+white: 58%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Ne7 7. Bd3
+white: 58%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Ne2 Nh6 
+white: 58%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Qb3 Qb6 
+white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 Nd7 
+white: 58%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 Qb6 
+white: 58%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. c4 Qa5+ 
+white: 58%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 Qa6 8. e6
+white: 58%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. Bd3 Bxd3 8. cxd3
+white: 58%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 Nd7 7. Bd3 e6 8. Bxf5
+white: 58%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qb6 8. b3
+white: 58%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qa5 8. a3
+white: 58%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Be7 8. cxd5
+white: 58%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. cxd5 cxd5 8. Ne2
+white: 58%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qa5+ 7. Nc3 Ne7 8. a3
+white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 g6 6. Nc3 e6 7. Bg5 Qb6 8. Qd2
+white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 h5 7. gxh5 Nh6 8. Bg5
+white: 58%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 h5 7. Be2 hxg4 8. Bxg4
+white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Nd7 
+white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3 Nd7 
+white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2 Nd7 
+white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Nd7 
+white: 58%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 Nd7 7. Bd3 e6 8. Bxf5 exf5 
+white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Nd7 6. Bd3 Bxd3 7. Qxd3 Qa5+ 8. Nd2 e6 
+white: 58%, black: 32%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 cxd5 8. Bd3 Bxd3 
+white: 58%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 cxd5 8. Bg5 Qa5 
+white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. h5 Bh7 8. e6 Nf6 
+white: 58%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6 Nf6 8. h5 Bh7 
+white: 58%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 Qc7 7. Qxd5 e6 8. Bxc6+ bxc6 
 white: 57%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5
-white: 57%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5
-white: 57%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 cxd5 
 white: 57%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5
+white: 57%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 c5 
+white: 57%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qa5+ 
+white: 57%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. Nf3 e6 
+white: 57%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Ne2
+white: 57%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 Qb6 7. Bd3
+white: 57%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5
+white: 57%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. cxd5 cxd5 7. Bd3
 white: 57%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. h5
+white: 57%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 Qc7 7. Qxd5
+white: 57%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 
+white: 57%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 cxd5 
+white: 57%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 exd5 
+white: 57%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. Nge2 Bxh4 
+white: 57%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. Nge2 dxc4 
 white: 57%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. h5 Bh7 
+white: 57%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. c4 dxc4 6. Nc3 h5 7. Bxc4 e6 
+white: 57%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2
+white: 57%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Nf3 Na6 8. c3
+white: 57%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Ne2 Ne7 8. Ng3
+white: 57%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Qb3 a5 8. Nf3
+white: 57%, black: 26%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. cxd5 cxd5 8. a3
+white: 57%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 
+white: 57%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nd2 Qb6 
+white: 57%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 Qa6 8. e6 Qxd3 
+white: 57%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3 Bxd3 7. Qxd3 e6 8. Nf3 c5 
+white: 57%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3 Bxd3 7. Qxd3 e6 8. Nd2 Be7 
+white: 57%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3 Bxd3 7. Qxd3 e6 8. Ne2 Be7 
+white: 57%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. a3 Bxc3+ 8. bxc3 Ne7 
+white: 57%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 Qb6 7. Nc3 e6 8. Na4 Qa5+ 
+white: 57%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 Qb6 8. Qd2 c5 
+white: 57%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 Qa6 8. c4 e6 
+white: 56%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bc8 6. c4
+white: 56%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Qc8 6. Nf3
+white: 56%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. c4 dxc4 6. Nc3
+white: 56%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. c4 e6 6. c5
+white: 56%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 fxe5 
 white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5
-white: 56%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nf5 10. O-O Nd7 
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nf5 10. O-O Nd7 11. c4
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nd7 10. O-O Nf5 
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nd7 10. O-O Nf5 11. c4
-white: 56%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ne2
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Nd7 9. Ngf3 Ne7 10. O-O Nf5 
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Nd7 9. Ngf3 Ne7 10. O-O Nf5 11. c4
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Qa6 9. c4 Ne7 
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nf5 10. O-O Nd7 
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nf5 10. O-O Nd7 11. c4
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nd7 10. O-O Nf5 
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nd7 10. O-O Nf5 11. c4
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2 Qa6 9. c4 Ne7 
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nf5 10. O-O Nd7 
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nf5 10. O-O Nd7 11. c4
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nd7 10. O-O Nf5 
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nd7 10. O-O Nf5 11. c4
-white: 56%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 dxc4 8. Ng3
+white: 56%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Ne2
+white: 56%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. Be2
+white: 56%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 fxe5 7. Bxe5
+white: 56%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 fxe5 7. dxe5
 white: 56%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Ne2
 white: 56%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Qb3
+white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Bg5
+white: 56%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. Nge2
+white: 56%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2
+white: 56%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bc8 6. c4 e6 7. Nc3
+white: 56%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 
+white: 56%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 e6 7. Nd2 Qb6 
+white: 56%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 fxe5 7. Bxe5 Nf6 
+white: 56%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Qb6 
+white: 56%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Bg5 Ne7 
+white: 56%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. a3 Bxc3+ 
+white: 56%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. a3 Ba5 
+white: 56%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qb6 7. Qd2 dxc4 
+white: 56%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nd2
+white: 56%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nc3
+white: 56%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qb6 8. Rc1
+white: 56%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 dxc4 8. Ng3
+white: 56%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Nh6 8. Ng3
+white: 56%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Be7 8. Qd2
+white: 56%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Qb6 8. Qd2
+white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Ne2 Nh6 8. Ng3
+white: 56%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. a3 Bxc3+ 8. bxc3
+white: 56%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Nge2 Ne7 8. Ng3
+white: 56%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. g3 Nh6 8. Nge2
+white: 56%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qb6 7. Qd2 Nd7 8. Nc3
+white: 56%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 Nd7 8. Nc3
+white: 56%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Ne2 Ne7 8. Bg5
+white: 56%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Nge2 Ne7 8. Ng3
+white: 56%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Ne2 e6 7. Nbc3 Ne7 8. Ng3
+white: 56%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. h5 e6 8. c3
+white: 56%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. h5 Bh7 8. Nd2
+white: 56%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2 Ne7 
+white: 56%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nd2 Qa5 
+white: 56%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qa5 8. Qd2 Nd7 
+white: 56%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 exd5 8. Nge2 Bb4 
+white: 56%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Ne7 8. cxd5 exd5 
+white: 56%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Ne2 Ne7 8. a3 Ba5 
+white: 56%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qa5+ 7. Nc3 Ne7 8. Qd2 Nd7 
+white: 56%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. c3 Nc6 8. Na3 cxd4 
 white: 56%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. h5 Bh7 8. e6 Qd6 
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. h5 Bh7 8. e6 Qd6 9. exf7+
-white: 56%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. h5 Bh7 8. e6 Qd6 9. exf7+ Kxf7 
-white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Qa6 9. c4 Nd7 
-white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Qa6 9. c4 Nd7 10. Ngf3
-white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 
-white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3
-white: 55%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3 g6 
-white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2 Qa6 9. c4 Nd7 
-white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2 Qa6 9. c4 Nd7 10. Ngf3
+white: 55%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Nh6 
 white: 55%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 
+white: 55%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 e6 6. Bxf5
+white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 dxc4 6. Nc3
+white: 55%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. Nf3
+white: 55%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. f3 Be6 
+white: 55%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 Qb6 
+white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 
+white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 g6 6. Nc3 e6 
+white: 55%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 e6 6. Bxf5 exf5 
+white: 55%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 Qb6 6. Nc3 e6 
+white: 55%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 
+white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Nf3
+white: 55%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. a3
+white: 55%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Nge2
+white: 55%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Nge2
+white: 55%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Ne2 e6 7. Nbc3
+white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 g6 6. Nc3 e6 7. Nf3
+white: 55%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 g6 6. Nc3 e6 7. Bd3
+white: 55%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. h5
+white: 55%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 h5 7. Nf3
+white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 
+white: 55%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qa5 
+white: 55%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qc7 
 white: 55%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 dxc4 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nf5 10. O-O Nd7 11. c4 Be7 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nf5 10. O-O Nd7 11. c4 Qa6 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nf5 10. O-O Nd7 11. c4 Qa6 12. b3
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nd7 10. O-O Nf5 11. c4 Be7 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nd7 10. O-O Nf5 11. c4 Qa6 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nd7 10. O-O Nf5 11. c4 Qa6 12. b3
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Nd7 9. Ngf3 Ne7 10. O-O Nf5 11. c4 Be7 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Nd7 9. Ngf3 Ne7 10. O-O Nf5 11. c4 Qa6 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Nd7 9. Ngf3 Ne7 10. O-O Nf5 11. c4 Qa6 12. b3
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Qa6 9. c4
-white: 54%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Qa6 9. c4 Bb4 10. b3
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nf5 10. O-O Nd7 11. c4 Be7 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nf5 10. O-O Nd7 11. c4 Qa6 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nf5 10. O-O Nd7 11. c4 Qa6 12. b3
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nd7 10. O-O Nf5 11. c4 Be7 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nd7 10. O-O Nf5 11. c4 Qa6 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nd7 10. O-O Nf5 11. c4 Qa6 12. b3
-white: 54%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2 Qa6 9. c4
-white: 54%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2 Qa6 9. c4 Bb4 10. b3
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nf5 10. O-O Nd7 11. c4 Be7 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nf5 10. O-O Nd7 11. c4 Qa6 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nf5 10. O-O Nd7 11. c4 Qa6 12. b3
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nd7 10. O-O Nf5 11. c4 Be7 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nd7 10. O-O Nf5 11. c4 Qa6 
-white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nd7 10. O-O Nf5 11. c4 Qa6 12. b3
-white: 54%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5
+white: 55%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Nge2 Ne7 
+white: 55%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qa5+ 7. Nc3 Ne7 
+white: 55%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Nge2 Ne7 
+white: 55%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Ne2 e6 7. Nbc3 Ne7 
+white: 55%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. c4 dxc4 
+white: 55%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. h5 Bh7 
+white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3
+white: 55%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nc3 Qa6 8. Qd1
+white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 exd5 8. Bd3
+white: 55%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 exd5 8. Be2
+white: 55%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Qb3 Qa5 8. Bd2
+white: 55%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Qb3 Qa5 8. Nf3
+white: 55%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Bg5 f6 8. exf6
+white: 55%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qb6 7. Qd2 dxc4 8. Nc3
+white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nf3 Ne7 8. Bg5
+white: 55%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. c4 dxc4 8. Qxc4
+white: 55%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. c4 Nd7 8. Nc3
+white: 55%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. Bd3 Bxd3 8. Qxd3
+white: 55%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. h5 Bh7 8. Bd3
+white: 55%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Ne2 Qxb2 
+white: 55%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3 g6 
+white: 55%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nc3 Nd7 
+white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qc7 
+white: 55%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nc3 e6 8. Bg5 Nd7 
+white: 55%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. Bd3 Bxd3 8. Qxd3 Nd7 
+white: 55%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 cxd5 8. Bg5 Be7 
+white: 55%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Be7 8. cxd5 cxd5 
+white: 55%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. a3 Bxc3+ 8. bxc3 Nd7 
+white: 55%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6 fxe6 8. h5 Bf7 
+white: 55%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. h5 Bh7 8. Bd3 Bxd3 
+white: 54%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 Bxb1 
+white: 54%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Be3
+white: 54%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 Bxb1 6. Rxb1
+white: 54%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 c5 6. dxc5
+white: 54%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 a6 6. Na4
+white: 54%, black: 27%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. c4 dxc4 6. d5
+white: 54%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Qd7 6. Bg5 g6 
 white: 54%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 
-white: 54%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3
 white: 54%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 
+white: 54%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. g4 Bh7 
+white: 54%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5
+white: 54%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 g6 6. Nc3 e6 7. Nge2
+white: 54%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3
+white: 54%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 e6 7. Nd2 Be7 
+white: 54%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Be7 
+white: 54%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Be7 
+white: 54%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 f6 
+white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Ne2 Ne7 
+white: 54%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Bg5 Qa5 
+white: 54%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qa5+ 7. Nc3 Bb4 
+white: 54%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6 fxe6 
+white: 54%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bc8 6. c4 dxc4 7. Bxc4 e6 
+white: 54%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. g4 Bg6 
+white: 54%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2
+white: 54%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Qd3 g6 8. Nf3
+white: 54%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Qd3 g6 8. Ne2
+white: 54%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Nf3 Nh6 8. Be2
+white: 54%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 dxc4 8. Nge2
+white: 54%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 f6 8. exf6
+white: 54%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 Ne7 8. cxd5
+white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Bg5 Qa5 8. Qd2
+white: 54%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. cxd5 cxd5 8. Qa4+
+white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Bg5
+white: 54%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. g3 Nh6 8. Bxh6
+white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qa5+ 7. Nc3 Bb4 8. Qd2
+white: 54%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 f6 7. exf6 gxf6 8. Bf4
+white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Bg5
+white: 54%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nf3 Ne7 8. O-O
+white: 54%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 8. Bg5
+white: 54%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 Qb6 7. Nc3 e6 8. Na4
+white: 54%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 Qb6 8. Qd2
+white: 54%, black: 34%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nd2 Bxg5 
+white: 54%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qa5 8. Qd2 Bg6 
+white: 54%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 dxc4 8. Ng3 Bg6 
+white: 54%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Nh6 8. Ng3 Be7 
+white: 54%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Nge2 Ne7 8. Ng3 Bg6 
+white: 54%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qa5+ 7. Nc3 Ne7 8. Qd2 Bg6 
+white: 54%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Nge2 Ne7 8. Ng3 Bg6 
+white: 54%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Ne2 e6 7. Nbc3 Ne7 8. Ng3 Bg6 
+white: 54%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 Qb6 8. Na4 Qa5+ 
+white: 54%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 c5 8. c4 Nc6 
+white: 53%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 Qb6 
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5
+white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. Nf3 e6 6. c4
 white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 
-white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Qa6 
-white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Qa6 9. c4 Nd7 10. Ngf3 Ne7 
-white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 
-white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3 Bxg5 
-white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 
-white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2 Qa6 
-white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2 Qa6 9. c4 Nd7 10. Ngf3 Ne7 
-white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 
-white: 53%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 
 white: 53%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 
+white: 53%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bc8 6. c4 e6 
+white: 53%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 Qa5+ 
+white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 h6 
+white: 53%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 e6 7. Ne2
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. Ne2
+white: 53%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5
+white: 53%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. cxd5
+white: 53%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Bg5
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 h5 7. gxh5
 white: 53%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6
-white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4
+white: 53%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. Nd2
+white: 53%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 Qa5+ 7. Nc3
+white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 
+white: 53%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 Nd7 7. Bd3 g6 
+white: 53%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Qa5 
+white: 53%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Ne2 Nd7 8. Ng3
+white: 53%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. cxd5 Nxd5 8. Bg5
+white: 53%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Be7 8. Ng3
+white: 53%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Be7 8. cxd5
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Ne2 Ne7 8. a3
+white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Bg5 Qa5 8. Bd2
+white: 53%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 Nh6 8. Nc3
+white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qa5+ 7. Nc3 Bb4 8. Bd2
+white: 53%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6 fxe6 8. Bd3
+white: 53%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Be3
+white: 53%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Be3
+white: 53%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. h5 c5 8. c3
+white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 Qc7 7. Qxd5 e6 8. Bxc6+
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Qa6 
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3 Bxg5 
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2 Qa6 
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Be2 Bxe2 7. Nxe2 e6 8. Bg5 Be7 
+white: 53%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Ne2 Nd7 8. Ng3 Bg6 
+white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 dxc4 8. Bxc4 Qa5 
+white: 53%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 dxc4 8. Ng3 b5 
+white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Be7 8. Qd2 Nh6 
+white: 53%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 f6 8. exf6 gxf6 
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 Ne7 8. cxd5 Nxd5 
+white: 53%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 Ne7 8. cxd5 cxd5 
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Nge2 Ne7 
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Ne7 8. Nge2 Nd7 
+white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Ne7 8. Bg5 Qa5 
+white: 53%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Nge2 Ne7 8. Ng3 b5 
+white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 Nd7 8. Nc3 Nh6 
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Nge2 Ne7 
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Ne7 8. Nge2 Nd7 
+white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Ne7 8. Bg5 Qa5 
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Ne2 Nd7 8. Nbc3 Ne7 
+white: 53%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Ne2 Ne7 8. Ng3 Bg6 
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 8. Nge2 Ne7 
+white: 53%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Ne7 8. Nge2 Nd7 
+white: 53%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Ne7 8. Bg5 Qa5 
+white: 53%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Nge2 Ne7 8. Ng3 b5 
+white: 53%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Ne2 e6 7. Nbc3 Ne7 8. Ng3 b5 
+white: 53%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. f4 c5 8. Nf3 Nc6 
 white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4
 white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 
-white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3
-white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 
 white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4
-white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 
-white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3
-white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qb6 8. Qd2
-white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2
-white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. Ng3
-white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. Ng3 Bg6 9. Bg5
-white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2
-white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. Ng3
-white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. Ng3 Bg6 9. Bg5
-white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 
-white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Ne7 
-white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Ne7 
 white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 
+white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 
 white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 
+white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 dxc4 
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 Qb6 
+white: 52%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. f3
+white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3
+white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3
 white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3
+white: 52%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 Nd7 
+white: 52%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 Nd7 
+white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 
+white: 52%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Ne7 
+white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 
+white: 52%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 dxc4 6. Bxc4 e6 
+white: 52%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Bg5
+white: 52%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Qd3
+white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2
+white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 Qb6 7. Na4
+white: 52%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 7. Nc3
+white: 52%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 7. cxd5
+white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. c4
+white: 52%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. Nge2
+white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. g4
+white: 52%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. Bd3
+white: 52%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. f4
+white: 52%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. Bd3 Ne7 7. g4
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. Bd3
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. g4 Bd7 7. Na4
+white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 e6 7. Nd2 Ne7 
+white: 52%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 Nd7 7. Bd3 e6 
+white: 52%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Bg6 
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Ne7 
+white: 52%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. cxd5 cxd5 7. Bd3 Bxd3 
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Ne7 
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Ne7 
+white: 52%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. Bd3 Ne7 7. g4 Bxd3 
+white: 52%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. h5 c5 
+white: 52%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 Qc7 7. Qxd5 e6 
+white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Ne2
+white: 52%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nd2
+white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. b4
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3
+white: 52%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Qd3 g6 8. Bg5
+white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 e6 7. Nd2 Nd7 8. Nb3
+white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qb6 8. Qd2
+white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. Ng3
+white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. Bg5
+white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. Ng3
+white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. Bg5
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Ne7 8. Nge2
+white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Nge2 b5 8. Ng3
+white: 52%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. cxd5 cxd5 7. Bd3 Bxd3 8. Qxd3
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Ne7 8. Nge2
+white: 52%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Ne2 Be7 8. g3
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Ne7 8. Nge2
+white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Nge2 b5 8. Ng3
+white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Ne2 e6 7. Nbc3 b5 8. Ng3
+white: 52%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 g6 6. Nc3 e6 7. Nge2 Be7 8. Ng3
+white: 52%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. c3 Qb6 8. dxc5
+white: 52%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 Qb6 7. c3 c5 8. dxc5
+white: 52%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 Qb6 8. Na4
+white: 52%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. h5 e6 8. f4
+white: 52%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nd2 c5 8. c3
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. Bd3 Bxd3 8. Qxd3
+white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2 Qb5 
+white: 52%, black: 31%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nc3 Qa6 8. Qd1 e6 
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 dxc4 8. Bxc4 Qb6 
+white: 52%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Be7 8. Ng3 Bg6 
+white: 52%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Be7 8. Ng3 Bg4 
+white: 52%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Nh6 8. Ng3 Bg4 
+white: 52%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Ne2 Ne7 8. a3 Bxc3+ 
+white: 52%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Bg5 f6 8. exf6 gxf6 
+white: 52%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. cxd5 cxd5 8. Qa4+ Nc6 
+white: 52%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Nge2 Nh6 
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Ne7 8. Bg5 Qb6 
+white: 52%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. g3 Nh6 8. Bxh6 Rxh6 
+white: 52%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Nge2 Nh6 
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Ne7 8. Bg5 Qb6 
+white: 52%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Ne2 Nd7 8. Nbc3 Nh6 
+white: 52%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 8. Nge2 Nh6 
+white: 52%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Ne7 8. Bg5 Qb6 
+white: 52%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 Qb6 7. Nc3 e6 8. Na4 Qc7 
+white: 52%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. h5 Bh7 8. Nc3 e6 
+white: 52%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6 fxe6 8. Bd3 Bf7 
+white: 51%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 
 white: 51%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3
 white: 51%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 
+white: 51%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 Bxb1 
+white: 51%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bc8 
 white: 51%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3
-white: 51%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Qa6 9. c4 Bb4 
-white: 51%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3
-white: 51%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3 Nh6 
-white: 51%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2 Qa6 9. c4 Bb4 
-white: 51%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Nf3 Qa6 9. c4 Ne7 
-white: 51%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Nf3 Qa6 9. c4 Ne7 10. O-O
-white: 51%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 Qa6 
-white: 51%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3 Qg4 8. Bxf5 Qxf5 9. c4
+white: 51%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3
+white: 51%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 Bxb1 6. Rxb1
+white: 51%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. g4
+white: 51%, black: 33%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. cxd5
+white: 51%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 dxc4 6. Bxc4
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5
+white: 51%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 Qb6 
 white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 
+white: 51%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 Qb6 6. Bd3 Bxd3 
+white: 51%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4
+white: 51%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. g3
+white: 51%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 f6 7. exf6
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 Qb6 6. Bd3 Bxd3 7. Qxd3
+white: 51%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 Qa6 
+white: 51%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Qd3 g6 
 white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 
 white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 
-white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4
-white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 
-white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3
-white: 51%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 
-white: 51%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 
-white: 51%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bc8 
-white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3 Nh6 9. Nbd2
-white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3 Nh6 9. Bxh6
-white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3 Nh6 9. Bxh6 Rxh6 
-white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Nf3 Qa6 9. c4
-white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Nf3 Qa6 9. c4 Ne7 10. O-O Nf5 11. b3 Nd7 
-white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3 Qg4 8. Bxf5
-white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3 Qg4 8. Bxf5 Qxf5 
-white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qb6 
-white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. Ng3 Bg6 
-white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. Ng3 Bg6 
-white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 
-white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Nge2
-white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Nge2 Nb6 
-white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Ne7 8. Bg5
+white: 51%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 dxc4 
+white: 51%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Nh6 
+white: 51%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 Nh6 
+white: 51%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Qb3 Qa5 
+white: 51%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Nge2 Nd7 
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Nge2 b5 
+white: 51%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Nge2 Bd3 
+white: 51%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qb6 7. Qd2 Nd7 
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 Nh6 
+white: 51%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 f6 7. exf6 gxf6 
+white: 51%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Ne2 Ne7 
+white: 51%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nf3 Ne7 
+white: 51%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Nge2 Nd7 
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Nge2 b5 
+white: 51%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Nge2 Bd3 
+white: 51%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Ne2 e6 7. Nbc3 Nd7 
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Ne2 e6 7. Nbc3 b5 
+white: 51%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Ne2 e6 7. Nbc3 Bd3 
+white: 51%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 Qb6 
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Ne7 
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Ne7 
+white: 51%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3
+white: 51%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Be7 8. Nf3
+white: 51%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Qb6 8. Qb3
+white: 51%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 Ne7 8. Be2
+white: 51%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Nf3 Nd7 8. Nc3
+white: 51%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 Qc7 8. f4
+white: 51%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 7. h5 Ne7 8. Nc3
+white: 51%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. c4 e6 8. Nc3
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. Bd3 Ne7 7. g4 Bxd3 8. Qxd3
+white: 51%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. h5 Bh7 8. c3
+white: 51%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3 Nh6 
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nc3 Ne7 
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nc3 Qb6 
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nc3 e6 8. Bg5 Ne7 
+white: 51%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Qd3 g6 8. Bg5 Be7 
+white: 51%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. Bd3 Bxd3 8. Qxd3 Ne7 
+white: 51%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Bg6 8. Bg5 Qb6 
+white: 51%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 Ne7 8. Be2 dxc4 
+white: 51%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. c3 Qb6 8. dxc5 Qxc5 
+white: 51%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 Qb6 7. c3 c5 8. dxc5 Qxc5 
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. h5
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 
 white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 
-white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4
-white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 
-white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Nge2
-white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Nge2 Nb6 
-white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Ne7 8. Bg5
-white: 50%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 
 white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 
-white: 49%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3 Nh6 9. Nbd2 Nf5 
-white: 49%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Nf3 Qa6 
-white: 49%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Nf3 Qa6 9. c4 Ne7 10. O-O Nf5 11. b3
-white: 49%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Bd2 Qa6 8. e6
-white: 49%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3
-white: 49%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3 Qg4 8. Bxf5 Qxf5 9. O-O
-white: 49%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 
-white: 49%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 Bd7 
+white: 50%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 Nd7 
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bg5
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4
+white: 50%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4
+white: 50%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. cxd3
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. h5 c5 6. c3
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 
+white: 50%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Be3 Qb6 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 
+white: 50%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 f6 
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 Bxb1 6. Rxb1 dxc4 
+white: 50%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 
+white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 h5 
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. cxd3 e6 
+white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. Nf3 e6 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 Qc7 
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Nc3 Nxe5 
+white: 50%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bg5 Be7 7. Nf3
+white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Nf3
+white: 50%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. Bd3
+white: 50%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nf3
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 7. Nf3
+white: 50%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 h5 7. g5
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. Bd3 Ne7 7. Ne2
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. h5 c5 6. dxc5 Qxc5 7. c3
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Nf3 Nh6 
+white: 50%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. Bd3 Bxd3 
+white: 50%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 fxe5 7. Bxe5 Nd7 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qb6 
+white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Qb3 a5 
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Bg5 f6 
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. cxd5 cxd5 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 g6 6. Nc3 e6 7. Bg5 Qb6 
+white: 50%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 c5 
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 Qb6 7. Na4 Qc7 
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 7. cxd5 cxd5 
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6 Nf6 
+white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. c4 Nd7 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. f4 Ne7 
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. Bd3 Bxd3 
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. g4 Bd7 7. Na4 Qc7 
+white: 50%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 a6 6. h5 h6 7. g4 Bd7 
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nc3
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nc3 e6 8. Bg5
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Bg5 Be7 8. Nf3
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3 Qg4 8. Bxf5
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 e6 7. Nd2 Nd7 8. Ne2
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. Bd3 Bxd3 8. Qxd3
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 dxc4 8. Bxc4
+white: 50%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. cxd5
+white: 50%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. cxd5
+white: 50%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 dxc4 8. Ng3
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Nge2
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Ne7 8. Bg5
+white: 50%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Nge2 Nd7 8. Ng3
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 f6 7. exf6 gxf6 8. Be3
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Nge2
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Ne7 8. Bg5
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Ne2 Nd7 8. Nbc3
+white: 50%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Ne2 Ne7 8. Ng3
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 8. Nge2
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Ne7 8. Bg5
+white: 50%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Nge2 Nd7 8. Ng3
+white: 50%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Ne2 e6 7. Nbc3 Nd7 8. Ng3
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. dxc5 Qc7 8. Be3
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 c5 8. dxc5
+white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. h5 e6 8. Be3
+white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Ne7 7. g4 Bg6 8. h5
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. Ng3
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. Bd3 Bxd3 8. Qxd3
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. f4 Ne7 8. Nf3
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. h5 c5 8. Bd3
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nc3 c5 
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. b4 Qa6 8. Qd1 e6 
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nc3 e6 8. Bg5 c5 
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3 Qg4 8. Bxf5 Qxf5 
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. Bd3 Bxd3 8. Qxd3 c5 
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3 Bxd3 7. Qxd3 e6 8. Nf3 Nh6 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. Ng3 Bg6 
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. Ng3 dxc4 
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 dxc4 8. Ng3 Nd7 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Bg6 8. Ng3 Nd7 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. Ng3 Bg6 
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. Ng3 dxc4 
+white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 dxc4 8. Bxc4 Bb4 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Nge2 Nb6 
+white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Nf3 Bb4 
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Ne7 8. Nge2 Nd5 
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Be7 8. g3 Nh6 
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Nge2 Ne7 8. Ng3 Nd7 
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. g3 dxc4 8. Bxc4 Nh6 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Nge2 Nb6 
+white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Nf3 Bb4 
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Ne7 8. Nge2 Nd5 
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Be7 8. g3 Nh6 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Ne2 Nd7 8. Nbc3 Nb6 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 8. Nge2 Nb6 
+white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 8. Nf3 Bb4 
+white: 50%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Ne7 8. Nge2 Nd5 
+white: 50%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Be7 8. g3 Nh6 
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Nge2 Ne7 8. Ng3 Nd7 
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Ne2 e6 7. Nbc3 Ne7 8. Ng3 Nd7 
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. dxc5 Qc7 8. Be3 Qxe5 
+white: 50%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 h5 7. gxh5 Bf5 8. Nc3 e6 
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. h5 e6 8. f4 Ne7 
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. c4 Nd7 8. Nc3 dxc4 
+white: 50%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Ne7 7. g4 Bg6 8. h5 Bh7 
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. Bd3 Bxd3 8. Qxd3 dxc4 
+white: 50%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. h5 c5 8. c3 cxd4 
+white: 50%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. h5 c5 8. Bd3 Bxd3 
+white: 50%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. h5 Bh7 8. Nd2 c5 
 white: 49%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4
+white: 49%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 
+white: 49%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 c5 
+white: 49%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 
+white: 49%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Ne2
+white: 49%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3
 white: 49%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3
-white: 48%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Nf3 Qa6 9. c4 Ne7 10. O-O Nf5 
+white: 49%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4
+white: 49%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 Qc8 
+white: 49%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Ne7 
+white: 49%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 a6 
+white: 49%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 
+white: 49%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. b4
+white: 49%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3
+white: 49%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 e6 7. Nd2
+white: 49%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Bd3
+white: 49%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. h5
+white: 49%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. Bd3 Bxd3 7. Qxd3
+white: 49%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Bd3 Bxd3 
+white: 49%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Bb4 
+white: 49%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Bb4 
+white: 49%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Bd2 Qa6 8. e6
+white: 49%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Bd3 Bxd3 8. cxd3
+white: 49%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 Bxb1 7. Rxb1 e6 8. Ne2
+white: 49%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 Bxb1 6. Rxb1 dxc4 7. Bxc4 e6 8. Ne2
+white: 49%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Nf3 c5 8. Be3
+white: 49%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 h5 7. gxh5 Bf5 8. Nc3
+white: 49%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Nf3 Qa6 
+white: 49%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. c4 Qa6 
+white: 49%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Nh6 6. Bxh6 Bxd3 7. Qxd3 Rxh6 8. Nf3 e6 
+white: 49%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Bg6 8. Ng3 Nf5 
+white: 49%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Bg5 Be7 
+white: 49%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Bg5 Be7 
+white: 49%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 8. Bg5 Be7 
+white: 49%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 7. h5 Ne7 8. Nc3 dxc4 
+white: 49%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. Bd3 Bxd3 8. Qxd3 Nd7 
+white: 49%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. Bd3 Bxd3 8. Qxd3 Qb6 
+white: 48%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2
+white: 48%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5
+white: 48%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. Nf3
+white: 48%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Qd7 6. Bg5
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Qd2
+white: 48%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 Bxb1 6. Rxb1 e6 
+white: 48%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 c5 
+white: 48%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Qd2 Qxd2+ 7. Kxd2
+white: 48%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Nf3
+white: 48%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Ne2
+white: 48%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 c5 7. dxc5
+white: 48%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. c4
+white: 48%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 dxc4 7. Bxc4
+white: 48%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. Bd3
+white: 48%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. Be2
+white: 48%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Be2 Bxe2 7. Qxe2 e6 
+white: 48%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 Ne7 
+white: 48%, black: 38%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 dxc4 
+white: 48%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 Qc7 
+white: 48%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 h5 7. gxh5 Bf5 
+white: 48%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Ne7 7. g4 Bg6 
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. Bd3 Bxd3 
+white: 48%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. f4 Be7 
+white: 48%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Bg6 8. Ng3
+white: 48%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 Ne7 8. Bd3
+white: 48%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. h5 e6 8. Bd3
+white: 48%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6 Qd6 8. exf7+
+white: 48%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 c5 8. c4
+white: 48%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. f4 c5 8. c3
+white: 48%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. f4 Be7 8. Nf3
+white: 48%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. h5 Bh7 8. Be3
+white: 48%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nd2 c5 
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nc3 Bb4 
+white: 48%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qa5+ 
 white: 48%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Bd2 Qa6 8. e6 Qxd3 
-white: 47%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nf5 10. O-O Nd7 11. c4 Qa6 12. b3 Bb4 
-white: 47%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Ne7 9. Ngf3 Nd7 10. O-O Nf5 11. c4 Qa6 12. b3 Bb4 
-white: 47%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2 Nd7 9. Ngf3 Ne7 10. O-O Nf5 11. c4 Qa6 12. b3 Bb4 
-white: 47%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nf5 10. O-O Nd7 11. c4 Qa6 12. b3 Bb4 
-white: 47%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Ne7 9. Nbd2 Nd7 10. O-O Nf5 11. c4 Qa6 12. b3 Bb4 
-white: 47%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nf5 10. O-O Nd7 11. c4 Qa6 12. b3 Bb4 
-white: 47%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Ne7 8. Nf3 Qb6 9. Nbd2 Nd7 10. O-O Nf5 11. c4 Qa6 12. b3 Bb4 
-white: 47%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nc3 e6 8. Bg5 Bb4 
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. Bd3 Bxd3 8. Qxd3 Bb4 
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qb6 8. Qd2 Nd7 
+white: 48%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qb6 8. Qd2 Ng6 
+white: 48%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 dxc4 8. Bxc4 Nd7 
+white: 48%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. cxd5 Nxd5 
+white: 48%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. cxd5 Nxd5 
+white: 48%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Be7 8. cxd5 cxd5 
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Be7 8. Qd2 dxc4 
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Be7 8. Nf3 Bg4 
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 dxc4 8. Bxc4 Nb6 
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Nf3 Nb6 
+white: 48%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Ne7 8. Bg5 Nd7 
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 Nd7 8. Nc3 dxc4 
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Nf3 Nd7 8. Nc3 Bg4 
+white: 48%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. cxd5 cxd5 7. Bd3 Bxd3 8. Qxd3 Nc6 
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Nf3 Nb6 
+white: 48%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Ne7 8. Bg5 Nd7 
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 8. Nf3 Nb6 
+white: 48%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Ne7 8. Bg5 Nd7 
+white: 48%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. h5 e6 8. f4 Be7 
+white: 48%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. h5 e6 8. c3 c5 
+white: 48%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. c4 e6 8. Nc3 Bb4 
+white: 48%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Qa5+ 8. Nbd2 Qa6 
+white: 48%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. Ng3 Bg6 
+white: 47%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. c4
+white: 47%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 e6 
+white: 47%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. c4 dxc4 
+white: 47%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. c4 e6 
+white: 47%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. c4 Bxb1 
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Ne2
+white: 47%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. h5 c5 6. Nc3
+white: 47%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. c4 Bxb1 6. Rxb1
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. f3 Bd7 
+white: 47%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Be2 e6 
 white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 
+white: 47%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Ne2 e6 
+white: 47%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 Qc8 
+white: 47%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2
+white: 47%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Be2 Bxe2 7. Qxe2
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 e6 7. b4
+white: 47%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Nf3
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 h5 7. gxh5
+white: 47%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2
+white: 47%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. cxd5
+white: 47%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 dxc4 7. Bxc4
+white: 47%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 dxc4 6. Bxc4 e6 7. Nc3
+white: 47%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. c4
+white: 47%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. h5 c5 6. dxc5 Qxc5 7. Be3
+white: 47%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. h5 c5 6. dxc5 Qxc5 7. Nc3
+white: 47%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. c4 dxc4 6. Nc3 h5 7. Bxc4
 white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3 Qg4 
-white: 46%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Nf3
-white: 46%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5
-white: 46%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Qd6 
-white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Qd6 8. exf7+
-white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Qd6 8. exf7+ Kxf7 
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 e6 7. Nd2 Nd7 
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 e6 7. b4 Qb6 
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. Bd3 Bb4 
+white: 47%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 dxc4 
+white: 47%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 dxc4 
+white: 47%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Nf3 c5 
+white: 47%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 Qb6 7. Na4 Qa5+ 
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. h5 e6 
+white: 47%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. c4 e6 
+white: 47%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. g4 Bh7 
+white: 47%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. f4 c5 
+white: 47%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. g4 Bd7 7. Na4 Qa5+ 
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 h5 7. Nf3 e6 
+white: 47%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nh3
+white: 47%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. b3
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. b4 Qa6 8. Qd1
+white: 47%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Nf3 Nd7 8. Be2
+white: 47%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 Ne7 8. Bg5
+white: 47%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 Ne7 8. Qb3
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 dxc4 8. Bxc4
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Nf3
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Nf3
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 8. Nf3
+white: 47%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 7. cxd5 cxd5 8. Nc3
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 h5 7. gxh5 Nh6 8. Nc3
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Qa5+ 8. Nbd2
+white: 47%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. f4 c5 8. Nf3
+white: 47%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. Bd3 Bxd3 8. cxd3
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 e6 7. Nd2 Nd7 8. Nb3 Qb6 
+white: 47%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. Bg5 Qb6 
+white: 47%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. Bg5 Qb6 
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Be7 8. Nf3 Qb6 
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Nf3 Nd7 8. Nc3 Qb6 
+white: 47%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 c5 8. dxc5 Qc7 
+white: 47%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 c5 8. dxc5 Qa5 
+white: 47%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. h5 e6 8. Bd3 Bxd3 
+white: 47%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. h5 e6 8. f4 c5 
+white: 47%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. h5 c5 8. c3 Nc6 
+white: 47%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. h5 Bh7 8. c3 Ne7 
 white: 46%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3
 white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 a6 
+white: 46%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Qd7 6. Ne2
+white: 46%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Be2
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3
+white: 46%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. cxd5
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Ne2
+white: 46%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5
 white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3
+white: 46%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Be2 Bxe2 
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 e6 
+white: 46%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 c5 
+white: 46%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 h5 
 white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 
-white: 45%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 
+white: 46%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. g4 Be4 
+white: 46%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. cxd5
+white: 46%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bd3
+white: 46%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 Qb6 7. f4
+white: 46%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 7. h5
+white: 46%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. h5
+white: 46%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bc8 6. Nc3 c5 7. dxc5
+white: 46%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nd2
+white: 46%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. g4 Be4 7. f3
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. h5
+white: 46%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Nf3 Na6 
+white: 46%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Ne2 Nd7 
+white: 46%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nf3 Nd7 
+white: 46%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 h5 7. gxh5 Nh6 
+white: 46%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Qd6 
+white: 46%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Nf6 
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6 Qd6 
+white: 46%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 Qa6 
+white: 46%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 Qb6 6. Bd3 Bxd3 7. Qxd3 e6 
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 Qc7 7. Nc3 Qxe5+ 
+white: 46%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Nf3
+white: 46%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 e6 7. Nd2 Nd7 8. b4
+white: 46%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Be7 8. Nf3
+white: 46%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Be7 8. Nf3
+white: 46%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Be7 8. Nf3
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 Qc7 8. Nf3
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Qd6 8. exf7+
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 c5 8. O-O
+white: 46%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qa5+ 8. Nc3 Qa6 
+white: 46%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Nf3 Ne7 
+white: 46%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. b4 Qa6 8. e6 Qxd3 
+white: 46%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nc3 e6 8. Bg5 Qa6 
+white: 46%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. Bd3 Bxd3 8. Qxd3 Qa6 
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 dxc4 8. Bxc4 Ne7 
+white: 46%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. cxd5 cxd5 8. Ne2 Ne7 
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Nf3 Ne7 
+white: 46%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 Qb6 8. Nc3 Bxg5 
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Nf3 Ne7 
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 8. Nf3 Ne7 
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Qd6 8. exf7+ Kxf7 
+white: 46%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. h5 Bh7 8. c3 Nd7 
+white: 45%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5
 white: 45%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 
+white: 45%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Qc8 
+white: 45%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 
+white: 45%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 
+white: 45%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. Rh3
+white: 45%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. g4
+white: 45%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 
+white: 45%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 Qb6 
+white: 45%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. Rh3 e6 
+white: 45%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 Bb4+ 
+white: 45%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Ne7 
+white: 45%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. g4 Bd7 
+white: 45%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 h5 
+white: 45%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Be2 Bxe2 7. Nxe2
+white: 45%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nc3 e6 7. Nf3
+white: 45%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 Qb6 7. c3
+white: 45%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 Qb6 7. Bd3
 white: 45%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3
-white: 43%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 
+white: 45%, black: 35%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Bd2
+white: 45%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. g4 Bd7 7. Bd3
+white: 45%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bxf5 exf5 7. Bg5 Be7 
+white: 45%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bg4 6. Be2 Bxe2 7. Nxe2 e6 
+white: 45%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Nf3 Nd7 
+white: 45%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bd3 Bxd3 
+white: 45%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. g3 Nh6 
+white: 45%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. g3 dxc4 
+white: 45%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 h5 7. gxh5 Nh6 
+white: 45%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 
+white: 45%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 dxc4 7. Bxc4 Nd7 
+white: 45%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 
+white: 45%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. Be2 c5 
+white: 45%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. b4 Qa6 8. e6
+white: 45%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3 Qg4 8. Be2
+white: 45%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Be7 8. Nge2
+white: 45%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 dxc4 8. Bxc4
+white: 45%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Be7 8. Nge2
+white: 45%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Be7 8. Nge2
+white: 45%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 Qb6 7. Na4 Qa5+ 8. c3
+white: 45%, black: 36%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 h5 7. gxh5 Bf5 8. Ne2
+white: 45%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Nf6 8. Bd3
+white: 45%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Nf6 8. g5
+white: 45%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Nf6 8. Bf4
+white: 45%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 c5 8. c3
+white: 45%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. g4 Bd7 7. Na4 Qa5+ 8. c3
+white: 45%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3 Bxd3 7. Qxd3 e6 8. Nd2 Nh6 
+white: 45%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. cxd5 exd5 8. Bd3 Ne7 
+white: 45%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 dxc4 8. Ng3 Nb6 
+white: 45%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Be7 8. Nf3 Nh6 
+white: 45%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Nge2 Be7 
+white: 45%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Nge2 Nd7 8. Ng3 Nb6 
+white: 45%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Nf3 Nd7 8. Nc3 Nh6 
+white: 45%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Nge2 Be7 
+white: 45%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Ne2 Nd7 8. Nbc3 Be7 
+white: 45%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 8. Nge2 Be7 
+white: 45%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Nge2 Nd7 8. Ng3 Nb6 
+white: 45%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Ne2 e6 7. Nbc3 Nd7 8. Ng3 Nb6 
+white: 45%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. c4 e6 8. Nc3 Ne7 
+white: 45%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. c4 dxc4 8. Qxc4 Ne7 
+white: 45%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. Bd3 Bxd3 8. Qxd3 c5 
+white: 44%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 
+white: 44%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. Bd3
+white: 44%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Na4
+white: 44%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Nc3
+white: 44%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 e6 6. Bg5 Be7 
+white: 44%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Qd2 Qxd2+ 
+white: 44%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. cxd5 cxd5 
+white: 44%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 Qb6 
+white: 44%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. cxd5 cxd5 
+white: 44%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 dxc4 
+white: 44%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. Bd3 Bxd3 
+white: 44%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. h5 c5 6. dxc5 Qxc5 
+white: 44%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 Qb6 7. c4
+white: 44%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Nf3 Nh6 
+white: 44%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Ne2 Nd7 
+white: 44%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. g3 Bg4 
+white: 44%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nf3 Bb4+ 
+white: 44%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. c3 cxd4 
+white: 44%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 Qb6 7. Bd3 e6 
+white: 44%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 c5 
+white: 44%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. Nge2 dxc4 
+white: 44%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. cxd5 cxd5 
+white: 44%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. g4 Bd7 7. Bd3 e6 
+white: 44%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. b4 Qa6 8. Qxa6
+white: 44%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Nf3 Nd7 8. c3
+white: 44%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. Nf4
+white: 44%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. Nf4
+white: 44%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Be7 8. g3
+white: 44%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. g3 dxc4 8. Bxc4
+white: 44%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qb6 7. Qd2 Nd7 8. c5
+white: 44%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Be7 8. g3
+white: 44%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Be7 8. g3
+white: 44%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. c3 cxd4 8. cxd4
+white: 44%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Nf6 8. exf7+
+white: 44%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6 Qd6 8. h5
+white: 44%, black: 44%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. b4 Qa6 8. Qxa6 Nxa6 
+white: 44%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 e6 7. Nd2 Nd7 8. b4 Qc7 
+white: 44%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Nd7 8. Bg5 f6 
+white: 44%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nge2 Ne7 8. Bg5 f6 
+white: 44%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qb6 7. Qd2 Nd7 8. c5 Qc7 
+white: 44%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 Bxb1 7. Rxb1 e6 8. Nf3 Bb4+ 
+white: 44%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 Bxb1 6. Rxb1 dxc4 7. Bxc4 e6 8. Nf3 Bb4+ 
+white: 44%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. c3 cxd4 8. cxd4 Nc6 
+white: 44%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. dxc5 Qc7 8. f4 Qxc5 
+white: 44%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Nf6 8. exf7+ Kxf7 
+white: 44%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. h5 Bh7 8. Bd3 c5 
 white: 43%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 
+white: 43%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 
 white: 43%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3
-white: 42%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Nf3 Nh6 9. O-O Nf5 
+white: 43%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Qd7 
+white: 43%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bd7 
+white: 43%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Qd7 6. Nf3
+white: 43%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Qd7 6. Nc3
+white: 43%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3
+white: 43%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. c4
+white: 43%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. h5 c5 6. dxc5
+white: 43%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 b5 
+white: 43%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 Qa5+ 
+white: 43%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. Bd3 Ne7 
+white: 43%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 Bxb1 7. Rxb1
+white: 43%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 Bxb1 6. Rxb1 dxc4 7. Bxc4
+white: 43%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. dxc5
+white: 43%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 Qb6 7. Nc3
+white: 43%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. Nf3
+white: 43%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 Nd7 7. Nc3
+white: 43%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 
+white: 43%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Ne2 Be7 
+white: 43%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 Bxb1 7. Rxb1 e6 
+white: 43%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 Bxb1 6. Rxb1 dxc4 7. Bxc4 e6 
+white: 43%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. c4 Ne7 
+white: 43%, black: 56%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nd2 Ne7 
+white: 43%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. Bd3 Bxd3 
+white: 43%, black: 56%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. h5 c5 6. dxc5 Qxc5 7. Nc3 d4 
+white: 43%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Ne2
+white: 43%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. c4
+white: 43%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3 Qg4 8. O-O
+white: 43%, black: 56%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 g6 6. Nc3 e6 7. Nge2 Be7 8. g3
+white: 43%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 Nd7 7. Nge2 dxc4 8. Ng3
+white: 43%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 Ne7 7. Nc3 dxc4 8. Bxc4
+white: 43%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Ne2 c5 
+white: 43%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Ne2 Nh6 
+white: 43%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qb6 8. Qd2 Na6 
+white: 43%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bd3 Bxd3 8. Qxd3 Nf5 
+white: 43%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Bg5 Qb6 8. Qd2 f6 
+white: 43%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 Ne7 8. Qb3 Qb6 
+white: 43%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Ne2 dxc4 8. Ng3 b5 
+white: 43%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qb6 7. Qd2 Nd7 8. Nc3 f6 
+white: 43%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. c3 cxd4 8. cxd4 Qb6 
+white: 43%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 Ne7 7. Nc3 Nd7 8. cxd5 Nxd5 
+white: 43%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. Bd3 Bxd3 8. Qxd3 Ne7 
+white: 42%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nc3 dxc4 
+white: 42%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 c5 6. c3 Nc6 
 white: 42%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Bd2
+white: 42%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 Qb6 7. Nb3
 white: 42%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Bd2 Qa6 
+white: 42%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nc3 Qa6 
+white: 42%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 f6 6. Bf4 Qb6 7. Bd3 Qxd4 
+white: 42%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. cxd5 Nxd5 
+white: 42%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Be7 
+white: 42%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Be7 
+white: 42%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Be7 
+white: 42%, black: 57%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 g6 6. Nc3 e6 7. Nge2 Be7 
+white: 42%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 Qb6 7. Nc3 e6 
+white: 42%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nd2 Qb6 
+white: 42%, black: 37%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Bd2 Qa6 
+white: 42%, black: 57%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. Nd2 c5 
+white: 42%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bd3 Bxd3 8. Qxd3
+white: 42%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 Bxb1 7. Rxb1 e6 8. Nf3
+white: 42%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 Bxb1 6. Rxb1 dxc4 7. Bxc4 e6 8. Nf3
+white: 42%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. dxc5 e6 8. Be3
+white: 42%, black: 57%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. h5 c5 6. dxc5 Qxc5 7. Nc3 d4 8. Nb5
+white: 42%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. b4 Qa6 8. Qf3 e6 
+white: 42%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bg5 Qb6 8. Rc1 Qxb2 
+white: 42%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bd3 Bxd3 8. Qxd3 dxc4 
+white: 42%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Ne7 8. Be3 Nd7 
+white: 42%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Be7 8. g3 Nd7 
+white: 42%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. g3 dxc4 8. Bxc4 Nd7 
+white: 42%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Ne7 8. Be3 Nd7 
+white: 42%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Be7 8. g3 Nd7 
+white: 42%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Ne7 8. Be3 Nd7 
+white: 42%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Be7 8. g3 Nd7 
+white: 42%, black: 57%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Nf3 c5 8. Be3 Nc6 
+white: 42%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 Qb6 7. Na4 Qa5+ 8. c3 e6 
+white: 42%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. g4 Bh7 7. f4 c5 8. c3 Nc6 
+white: 42%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. g4 Bd7 7. Na4 Qa5+ 8. c3 e6 
+white: 41%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. c4
+white: 41%, black: 58%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 Nd7 
+white: 41%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. h5 c5 
+white: 41%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. c4 cxd4 
+white: 41%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. c4 e6 
+white: 41%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Bd3
+white: 41%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Nf3
+white: 41%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. c4 dxc4 
+white: 41%, black: 43%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 Bxb1 
+white: 41%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. c4 Bxb1 6. Rxb1 dxc4 
+white: 41%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nc3
+white: 41%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. c4 dxc4 7. Bxc4
+white: 41%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 Bb4+ 7. Nc3
+white: 41%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nc3 e6 
+white: 41%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Qa5+ 
+white: 41%, black: 58%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. Bd3 Ne7 7. Ne2 Nd7 
+white: 41%, black: 58%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Bb5 Qa5+ 7. Nc3 e6 
+white: 41%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. b4 Qa6 8. Qf3
+white: 41%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Nf3 Nd7 8. c4
+white: 41%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Ne7 8. Be3
+white: 41%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Ne7 8. Be3
+white: 41%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Ne7 8. Be3
+white: 41%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. dxc5 Qc7 8. f4
+white: 41%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 7. Nc3 c5 8. cxd5
+white: 41%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nd2 Nh6 
 white: 41%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Nf3 Nh6 
-white: 41%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Nf3 Nh6 9. O-O
+white: 41%, black: 58%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Qb3 Qa5 8. Nf3 Ne7 
+white: 41%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. c3 Nc6 8. Na3 Qb6 
+white: 41%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 c5 8. c3 Nc6 
+white: 40%, black: 59%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h6 6. Bd3
+white: 40%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Qd7 6. Bg5 Bxd3 
+white: 40%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. c3 c5 
+white: 40%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 Qb6 
+white: 40%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bc8 6. Nc3 c5 
+white: 40%, black: 56%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 Nd7 
+white: 40%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Nf3 e6 
+white: 40%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Na4 Qc7 
+white: 40%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Nf3 e6 7. Bd3
+white: 40%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Qd7 6. Bg5 Bxd3 7. Qxd3 Na6 
+white: 40%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bd3 dxc4 
+white: 40%, black: 60%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. a3 Be7 
+white: 40%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nd2 c5 
+white: 40%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. h5 Nd7 
+white: 40%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Qa5+ 8. Bd2
+white: 40%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Ne2 c5 
+white: 40%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qc7 6. Bd3 Bxd3 7. Qxd3 e6 8. c4 dxc4 
+white: 40%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 dxc4 8. Bxc4 Bg4 
+white: 40%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Nf3 Bg4 
+white: 40%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 Nh6 8. Nc3 Bg6 
+white: 40%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Nf3 Bg4 
+white: 40%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 8. Nf3 Bg4 
+white: 40%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 c5 8. c4 cxd4 
+white: 40%, black: 49%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Qa5+ 8. Bd2 Qa6 
+white: 39%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 
 white: 39%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 
+white: 39%, black: 47%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Qd7 6. Bg5 Bxd3 7. Qxd3
+white: 39%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. b4 Qa6 
+white: 39%, black: 57%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Bg5 Be7 
+white: 39%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Qb6 8. O-O
+white: 39%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. c4 Nh6 
+white: 39%, black: 58%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3 Qg4 8. O-O f6 
+white: 39%, black: 56%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 7. Nc3 c5 8. cxd5 exd5 
+white: 39%, black: 46%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 c5 8. c3 Nd7 
+white: 39%, black: 56%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. h5 Nd7 8. Bd3 Bxd3 
+white: 38%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Qd7 
+white: 38%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. c4 h6 
 white: 38%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. c3
+white: 38%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Qb3 Na6 
+white: 38%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. dxc5 e6 
+white: 38%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Qb6 8. c3
+white: 38%, black: 57%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. h5 Nd7 8. Bd3
+white: 38%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. c4 dxc4 
+white: 38%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 e6 7. Nf3 Nd7 8. c3 c5 
+white: 38%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 dxc4 8. Bxc4 Be7 
+white: 38%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Nd7 8. Nf3 Be7 
+white: 38%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Be7 8. Nf3 Nd7 
+white: 38%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Nd7 8. Nf3 Be7 
+white: 38%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Be7 8. Nf3 Nd7 
+white: 38%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Nd7 8. Nf3 Be7 
+white: 38%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Be7 8. Nf3 Nd7 
+white: 38%, black: 57%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Nf3 c5 8. Be3 Qb6 
+white: 38%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bg6 7. e6 Qd6 8. exf7+ Kxf7 
+white: 38%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. Bd3 Bxd3 8. Qxd3 Qa5+ 
+white: 37%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. c4 dxc4 
+white: 37%, black: 58%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Be2
+white: 37%, black: 60%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Bd2 Qb6 
+white: 37%, black: 56%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. c3 Nc6 
+white: 37%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. dxc5 Qc7 
+white: 37%, black: 62%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 7. h5 Ne7 
+white: 37%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Qb6 
+white: 37%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 Bb4+ 7. Nc3 Ne7 
+white: 37%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Qa5+ 8. c3
+white: 37%, black: 56%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Nd7 7. Nf3 Ne7 8. Bg5 f6 
+white: 37%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 dxc4 7. Bxc4 Ne7 8. Be3 Nd5 
+white: 37%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 e6 7. Nc3 Ne7 8. Be3 Nd5 
+white: 37%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Nc3 e6 7. Bxc4 Ne7 8. Be3 Nd5 
+white: 37%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 h5 7. gxh5 Nh6 8. Bg5 Bg4 
+white: 37%, black: 56%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Qa5+ 8. c3 Qa6 
+white: 37%, black: 48%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 Ne7 7. Nc3 dxc4 8. Bxc4 Nd5 
+white: 37%, black: 58%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. Bd3 Bxd3 8. cxd3 Qb6 
+white: 37%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bh7 7. h5 c5 8. c3 Ne7 
+white: 37%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. h5 Bh7 8. Bd3 Ne7 
+white: 36%, black: 63%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. c4 dxc4 6. Nc3 Na6 
+white: 36%, black: 54%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. dxc5 Nc6 6. Nc3 d4 
+white: 36%, black: 63%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. c4
+white: 36%, black: 58%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Nf3 e6 7. Be2
+white: 36%, black: 45%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qa5+ 6. Nd2 Qb6 7. Nb3 e6 
+white: 36%, black: 57%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 7. h5 c5 
+white: 36%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bd3 dxc4 8. Bxc4
+white: 36%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. Nd2 e6 8. Ne2 Ne7 
+white: 36%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Bb4 7. Bg5 Qa5 8. Qd2 Nh6 
+white: 36%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qa5+ 7. Nc3 Bb4 8. Qd2 Nh6 
+white: 36%, black: 60%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. dxc5 e6 8. Be3 Qc7 
+white: 36%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Qb6 8. O-O c5 
+white: 35%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 Ne7 
+white: 35%, black: 57%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 e6 7. Nc3 c5 
+white: 35%, black: 58%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Nf3 e6 7. Bd3 Bg4 
+white: 35%, black: 60%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Bg4 8. f3
+white: 35%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. h5 Qa5+ 8. Nd2
+white: 35%, black: 51%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. Bd3 Bxd3 7. Qxd3 Qa5+ 8. Nd2
+white: 35%, black: 60%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Bg4 8. f3 Bf5 
+white: 34%, black: 58%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 Ne7 7. Nc3
+white: 34%, black: 59%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. c3 Qb6 
+white: 34%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 Qb6 7. f4 c5 
+white: 34%, black: 59%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 Qb6 7. c3 c5 
+white: 34%, black: 59%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 Ne7 7. Nc3 Nd7 
+white: 34%, black: 62%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. h5 Qa5+ 8. c3
+white: 34%, black: 62%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. Bd3 Bxd3 7. Qxd3 Qa5+ 8. c3
+white: 34%, black: 58%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Nf6 8. Bd3 Qd6 
+white: 33%, black: 56%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 c5 5. Nf3 e6 
+white: 33%, black: 61%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 c5 6. Ng3
+white: 33%, black: 41%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. c4 Be6 
+white: 33%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 Nd7 
+white: 33%, black: 66%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. c4 dxc4 6. Nc3 h5 
+white: 33%, black: 62%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Bd3 Qxd4 7. Nf3
+white: 33%, black: 62%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Be2 e6 7. Bxh5
+white: 33%, black: 59%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Bg4 
+white: 33%, black: 58%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bc8 6. c4 e6 7. Nc3 Ne7 
+white: 33%, black: 56%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. h5 Qa5+ 
+white: 33%, black: 56%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. Bd3 Bxd3 7. Qxd3 Qa5+ 
+white: 33%, black: 62%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Bd3 Qxd4 7. Nf3 Qg4 
+white: 33%, black: 53%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Bg4 8. Bg5
+white: 33%, black: 55%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Qb6 7. Qd2 dxc4 8. Nc3 Qa6 
+white: 33%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 dxc4 6. Bxc4 Bxb1 7. Rxb1 e6 8. Nf3 Nd7 
+white: 33%, black: 50%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 Bxb1 6. Rxb1 dxc4 7. Bxc4 e6 8. Nf3 Nd7 
+white: 32%, black: 60%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 Na6 
+white: 32%, black: 52%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nf3 Qa6 
+white: 32%, black: 64%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3 Qg4 8. O-O Nd7 
+white: 32%, black: 60%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Bd3 dxc4 8. Bxc4 Nd7 
+white: 31%, black: 62%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Ne2 Be7 
+white: 31%, black: 65%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Bd3 Bxd3 6. Qxd3 e6 7. h5 Qa5+ 8. c3 Qa6 
+white: 31%, black: 65%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. Bd3 Bxd3 7. Qxd3 Qa5+ 8. c3 Qa6 
+white: 30%, black: 70%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 c5 6. Ng3 Bd7 7. c3
+white: 30%, black: 70%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 Qb6 7. c4 dxc4 
+white: 30%, black: 70%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Be2 e6 7. Bxh5 c5 
+white: 30%, black: 69%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 e6 6. Ng3 Bg6 7. h5 Bh7 8. Be3 Qb6 
+white: 29%, black: 66%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Be2 e6 
+white: 28%, black: 63%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Qd7 6. Nf3 Bg4 
+white: 28%, black: 71%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. h5 c5 6. Nc3 cxd4 
+white: 28%, black: 71%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Nf6 8. Bf4 c5 
+white: 27%, black: 65%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 c5 
+white: 27%, black: 72%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Qd7 6. Nf3 Na6 
+white: 27%, black: 63%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Nd7 6. Bd3 Bxd3 7. Qxd3 Qa5+ 8. Bd2 Qa6 
+white: 27%, black: 72%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Qd2 dxc4 8. Bxc4 Bxg5 
+white: 26%, black: 66%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. Ne2 c5 6. Ng3 Bd7 
+white: 26%, black: 66%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. Nc3 h5 6. Bd3 Qxd4 
+white: 23%, black: 76%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Bg5 Be7 7. Nf3 Nd7 
+white: 23%, black: 61%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 c5 7. dxc5 Qc7 
+white: 18%, black: 72%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. h5 e6 6. c4 Nd7 
+white: 18%, black: 63%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. c4 e6 6. Nf3 Ne7 7. Nc3 dxc4 
+white: 16%, black: 83%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. h5 c5 7. c4 cxd4 
+white: 16%, black: 75%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nc3 e6 7. Be3 c5 8. dxc5 Bc6 
+white: 14%, black: 85%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. h5 f6 
+white: 10%, black: 60%, pgn:1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3 Qg4 8. Be2 Qe4 
