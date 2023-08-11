@@ -1,0 +1,8 @@
+games: 32, white: 31%, black: 40%, pgn:1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. Nb5 Na6 5. e3 c6 6. Nc3 Nc7 
+games: 16, white: 56%, black: 31%, pgn:1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. Nb5 Na6 5. e3 Bb4+ 
+games: 126, white: 37%, black: 28%, pgn:1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. Nb5 Na6 5. e3 c6 
+games: 297, white: 32%, black: 23%, pgn:1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. Nb5 Na6 5. e3
+games: 16, white: 56%, black: 31%, pgn:1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. Nb5 Na6 5. e3 Bb4+ 6. c3
+games: 126, white: 37%, black: 28%, pgn:1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. Nb5 Na6 5. e3 c6 6. Nc3
+games: 16, white: 56%, black: 31%, pgn:1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. Nb5 Na6 5. e3 Bb4+ 6. c3 Be7 
+games: 16, white: 37%, black: 31%, pgn:1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. Nb5 Na6 5. e3 c6 6. Nc3 Nc7 7. Nf3
