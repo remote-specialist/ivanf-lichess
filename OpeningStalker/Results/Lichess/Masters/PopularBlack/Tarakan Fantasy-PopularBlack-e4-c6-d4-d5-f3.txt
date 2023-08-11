@@ -1,6 +1,6 @@
 games: 224, white: 24%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. f3 Qb6 
 games: 1990, white: 37%, black: 30%, pgn:1. e4 c6 2. d4 d5 3. f3
-games: 64, white: 28%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. f3 Qb6 4. Nc3 e6 5. a3
 games: 170, white: 27%, black: 40%, pgn:1. e4 c6 2. d4 d5 3. f3 Qb6 4. Nc3
+games: 64, white: 28%, black: 42%, pgn:1. e4 c6 2. d4 d5 3. f3 Qb6 4. Nc3 e6 5. a3
 games: 93, white: 30%, black: 39%, pgn:1. e4 c6 2. d4 d5 3. f3 Qb6 4. Nc3 e6 
 games: 14, white: 35%, black: 28%, pgn:1. e4 c6 2. d4 d5 3. f3 Qb6 4. Nc3 e6 5. Nge2
