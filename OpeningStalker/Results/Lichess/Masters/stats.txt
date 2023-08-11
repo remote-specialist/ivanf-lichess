@@ -27,6 +27,7 @@ QueensGambit Nf3: d4-d5-c4-e6-Nc3-Nf6-Nf3: +28.28 =52.92 -18.81
 Scicilian d6: e4-c5-Nc3-d6-d4-cxd4-Qxd4-Nc6-Qd2: +35.6 =38.11 -26.28
 LondonJobava Nb5 Na6 e3: d4-d5-Nc3-Nf6-Bf4-e6-Nb5-Na6-e3: +36.12 =36.74 -27.13
 FrenchAdvanced a3: e4-e6-d4-d5-e5-c5-c3-Nc6-Nf3-Qb6-a3: +36.09 =36.58 -27.33
+Spanish Nf6: e4-e5-Nf3-Nc6-Bb5-Nf6: +26.31 =55.83 -17.86
 LondonJobava g6: d4-d5-Nc3-Nf6-Bf4-g6: +38.24 =31.94 -29.82
 QueensGambit e3: d4-d5-c4-e6-Nc3-Nf6-e3: +31.34 =45.28 -23.38
 Tarakan advanced h4: e4-c6-d4-d5-e5-Bf5-h4: +37.57 =32.64 -29.79
@@ -80,6 +81,7 @@ Tarakan exd5: e4-c6-d4-d5-exd5-cxd5: +31.67 =44.34 -23.99
 Tarakan advanced h4: e4-c6-d4-d5-e5-Bf5-h4: +37.57 =32.64 -29.79
 QueensGambit e3: d4-d5-c4-e6-Nc3-Nf6-e3: +31.34 =45.28 -23.38
 LondonJobava g6: d4-d5-Nc3-Nf6-Bf4-g6: +38.24 =31.94 -29.82
+Spanish Nf6: e4-e5-Nf3-Nc6-Bb5-Nf6: +26.31 =55.83 -17.86
 FrenchAdvanced a3: e4-e6-d4-d5-e5-c5-c3-Nc6-Nf3-Qb6-a3: +36.09 =36.58 -27.33
 LondonJobava Nb5 Na6 e3: d4-d5-Nc3-Nf6-Bf4-e6-Nb5-Na6-e3: +36.12 =36.74 -27.13
 Scicilian d6: e4-c5-Nc3-d6-d4-cxd4-Qxd4-Nc6-Qd2: +35.6 =38.11 -26.28
@@ -112,6 +114,7 @@ KingsGambitCounter e4: e4-e5-f4-d5-exd5-e4: +48.53 =26.59 -24.88
 
 Best for draws
 Grunfeld Nf3 Rb1: d4-Nf6-c4-g6-Nc3-d5-cxd5-Nxd5-e4-Nxc3-bxc3-Bg7-Nf3-c5-Rb1: +27.65 =57.57 -14.78
+Spanish Nf6: e4-e5-Nf3-Nc6-Bb5-Nf6: +26.31 =55.83 -17.86
 Grunfeld Nf3 Be3: d4-Nf6-c4-g6-Nc3-d5-cxd5-Nxd5-e4-Nxc3-bxc3-Bg7-Nf3-c5-Be3: +28.94 =53.55 -17.52
 QueensGambit Nf3: d4-d5-c4-e6-Nc3-Nf6-Nf3: +28.28 =52.92 -18.81
 QueensGambit Bg5: d4-d5-c4-e6-Nc3-Nf6-Bg5: +32.88 =51.31 -15.81
