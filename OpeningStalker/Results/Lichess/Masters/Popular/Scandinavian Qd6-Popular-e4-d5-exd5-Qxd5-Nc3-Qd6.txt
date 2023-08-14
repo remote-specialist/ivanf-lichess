@@ -1,0 +1,361 @@
+games: 5400, white: 36%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 
+games: 4830, white: 36%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4
+games: 4250, white: 35%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 
+games: 3434, white: 36%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3
+games: 3434, white: 36%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4
+games: 1390, white: 38%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 
+games: 1390, white: 38%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 
+games: 1345, white: 34%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 
+games: 1345, white: 34%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 
+games: 1345, white: 34%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 
+games: 740, white: 35%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5
+games: 740, white: 35%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Ne5
+games: 740, white: 35%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Ne5
+games: 653, white: 45%, black: 18%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3
+games: 653, white: 45%, black: 18%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3
+games: 639, white: 34%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Nbd7 
+games: 639, white: 34%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Ne5 Nbd7 
+games: 639, white: 34%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Ne5 Nbd7 
+games: 590, white: 32%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 
+games: 590, white: 32%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 g6 
+games: 474, white: 45%, black: 18%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 
+games: 474, white: 45%, black: 18%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 
+games: 438, white: 41%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 
+games: 327, white: 39%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4
+games: 315, white: 46%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. Bg2
+games: 315, white: 46%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. Bg2
+games: 276, white: 35%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 
+games: 270, white: 38%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3
+games: 270, white: 38%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3
+games: 270, white: 38%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3
+games: 268, white: 36%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3
+games: 266, white: 42%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3
+games: 264, white: 47%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. Bg2 Nc6 
+games: 264, white: 47%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. Bg2 Nc6 
+games: 256, white: 35%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Nb5
+games: 256, white: 35%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 g6 6. Nb5
+games: 242, white: 38%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 a6 
+games: 220, white: 48%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 
+games: 220, white: 48%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 
+games: 207, white: 49%, black: 14%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. Bg2 Nc6 8. O-O
+games: 207, white: 49%, black: 14%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. Bg2 Nc6 8. O-O
+games: 190, white: 47%, black: 14%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. Bg2 Nc6 8. O-O O-O-O 
+games: 190, white: 47%, black: 14%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. Bg2 Nc6 8. O-O O-O-O 
+games: 190, white: 33%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Nb5 Qb6 
+games: 190, white: 33%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 g6 6. Nb5 Qb6 
+games: 177, white: 49%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. h3
+games: 177, white: 49%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 6. h3
+games: 177, white: 41%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bg4 7. Bg2
+games: 177, white: 41%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bg4 7. Bg2
+games: 177, white: 41%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bg4 7. Bg2
+games: 172, white: 41%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bg4 
+games: 172, white: 41%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bg4 
+games: 172, white: 41%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bg4 
+games: 167, white: 41%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Bg4 
+games: 162, white: 35%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bd3
+games: 159, white: 40%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bg4 7. Bg2 e6 
+games: 159, white: 40%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bg4 7. Bg2 e6 
+games: 159, white: 40%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bg4 7. Bg2 e6 
+games: 154, white: 45%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. h3
+games: 154, white: 45%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. h3
+games: 153, white: 30%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. h3
+games: 153, white: 30%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. h3
+games: 153, white: 30%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. h3
+games: 134, white: 44%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 b5 
+games: 134, white: 44%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 b5 
+games: 133, white: 46%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bh5 
+games: 133, white: 46%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 6. h3 Bh5 
+games: 128, white: 44%, black: 15%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 b5 7. Bg2
+games: 128, white: 44%, black: 15%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 b5 7. Bg2
+games: 128, white: 44%, black: 15%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 b5 7. Bg2 Bb7 
+games: 128, white: 44%, black: 15%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 b5 7. Bg2 Bb7 
+games: 124, white: 45%, black: 14%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 b5 7. Bg2 Bb7 8. O-O
+games: 124, white: 45%, black: 14%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 b5 7. Bg2 Bb7 8. O-O
+games: 120, white: 28%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. h3 Bf5 
+games: 120, white: 28%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. h3 Bf5 
+games: 120, white: 28%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. h3 Bf5 
+games: 119, white: 43%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bg4 7. Bg2 e6 8. O-O
+games: 119, white: 43%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bg4 7. Bg2 e6 8. O-O
+games: 119, white: 43%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bg4 7. Bg2 e6 8. O-O
+games: 113, white: 30%, black: 30%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nge2
+games: 106, white: 47%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bh5 7. g4 Bg6 
+games: 106, white: 47%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 6. h3 Bh5 7. g4 Bg6 
+games: 106, white: 45%, black: 14%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 b5 7. Bg2 Bb7 8. O-O e6 
+games: 106, white: 45%, black: 14%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 b5 7. Bg2 Bb7 8. O-O e6 
+games: 104, white: 46%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bh5 7. g4
+games: 104, white: 46%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 6. h3 Bh5 7. g4
+games: 103, white: 32%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bf5 7. Bg2
+games: 103, white: 32%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bf5 7. Bg2
+games: 103, white: 32%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bf5 7. Bg2
+games: 97, white: 44%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bh5 7. g4 Bg6 8. Ne5
+games: 97, white: 44%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 6. h3 Bh5 7. g4 Bg6 8. Ne5
+games: 92, white: 53%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Nbd7 7. f4
+games: 92, white: 53%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Ne5 Nbd7 7. f4
+games: 92, white: 53%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Ne5 Nbd7 7. f4
+games: 92, white: 33%, black: 28%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nb5
+games: 91, white: 35%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bf5 
+games: 91, white: 35%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bf5 
+games: 91, white: 35%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bf5 
+games: 90, white: 44%, black: 28%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 a6 6. Nge2
+games: 84, white: 33%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 g6 
+games: 81, white: 43%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bg4 7. Bg2 e6 8. O-O Be7 
+games: 81, white: 43%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bg4 7. Bg2 e6 8. O-O Be7 
+games: 81, white: 43%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bg4 7. Bg2 e6 8. O-O Be7 
+games: 80, white: 41%, black: 28%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 a6 
+games: 75, white: 41%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 a6 6. Bb3
+games: 73, white: 39%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bh5 7. g4 Bg6 8. Ne5 Nbd7 
+games: 73, white: 39%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 6. h3 Bh5 7. g4 Bg6 8. Ne5 Nbd7 
+games: 68, white: 23%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bf5 7. Bg2 e6 
+games: 68, white: 23%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bf5 7. Bg2 e6 
+games: 68, white: 23%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bf5 7. Bg2 e6 
+games: 67, white: 23%, black: 28%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bf5 7. Bg2 e6 8. O-O
+games: 67, white: 23%, black: 28%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bf5 7. Bg2 e6 8. O-O
+games: 67, white: 23%, black: 28%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bf5 7. Bg2 e6 8. O-O
+games: 66, white: 51%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Nbd7 7. f4 Nb6 
+games: 66, white: 51%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Ne5 Nbd7 7. f4 Nb6 
+games: 66, white: 51%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Ne5 Nbd7 7. f4 Nb6 
+games: 66, white: 43%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Nb5 Qd8 
+games: 66, white: 43%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 g6 6. Nb5 Qd8 
+games: 61, white: 31%, black: 27%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 g6 5. Nf3
+games: 61, white: 31%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Be6 
+games: 61, white: 31%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Ne5 Be6 
+games: 61, white: 31%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Ne5 Be6 
+games: 60, white: 38%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bf5 7. Bg2 e6 8. O-O h6 
+games: 60, white: 38%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bf5 7. Bg2 h6 8. O-O e6 
+games: 60, white: 38%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bf5 7. Bg2 e6 8. O-O h6 
+games: 60, white: 38%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bf5 7. Bg2 h6 8. O-O e6 
+games: 60, white: 38%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bf5 7. Bg2 e6 8. O-O h6 
+games: 60, white: 38%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bf5 7. Bg2 h6 8. O-O e6 
+games: 59, white: 50%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Be3 Bg4 
+games: 59, white: 50%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Be3 Bg4 
+games: 59, white: 50%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Be3 Bg4 
+games: 59, white: 42%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Be3
+games: 59, white: 42%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Be3
+games: 59, white: 42%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Be3
+games: 57, white: 56%, black: 10%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Be3 Bg4 7. h3 Bxf3 8. Qxf3
+games: 57, white: 56%, black: 10%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 c6 8. Be3
+games: 57, white: 56%, black: 10%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Be3 Bg4 7. h3 Bxf3 8. Qxf3
+games: 57, white: 56%, black: 10%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Be3 Bg4 7. h3 Bxf3 8. Qxf3
+games: 57, white: 56%, black: 10%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 6. h3 Bxf3 7. Qxf3 c6 8. Be3
+games: 56, white: 55%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Nbd7 7. f4 Nb6 8. g4
+games: 56, white: 55%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Ne5 Nbd7 7. f4 Nb6 8. g4
+games: 56, white: 55%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Ne5 Nbd7 7. f4 Nb6 8. g4
+games: 56, white: 48%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Bg4 6. Be3
+games: 52, white: 55%, black: 11%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Be3 Bg4 7. h3
+games: 52, white: 55%, black: 11%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Be3 Bg4 7. h3
+games: 52, white: 55%, black: 11%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Be3 Bg4 7. h3
+games: 50, white: 52%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Be3 Bg4 7. h3 Bxf3 8. Qxf3 e6 
+games: 50, white: 52%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 c6 8. Be3 e6 
+games: 50, white: 52%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Be3 Bg4 7. h3 Bxf3 8. Qxf3 e6 
+games: 50, white: 52%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Be3 Bg4 7. h3 Bxf3 8. Qxf3 e6 
+games: 50, white: 52%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 6. h3 Bxf3 7. Qxf3 c6 8. Be3 e6 
+games: 48, white: 52%, black: 14%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 c6 
+games: 48, white: 52%, black: 14%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 6. h3 Bxf3 7. Qxf3 c6 
+games: 48, white: 29%, black: 33%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 a6 6. Nge2 b5 
+games: 46, white: 52%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Bg4 6. h3
+games: 45, white: 28%, black: 28%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nge2 c6 
+games: 42, white: 57%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bxf3 
+games: 42, white: 57%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 6. h3 Bxf3 
+games: 42, white: 57%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3
+games: 42, white: 57%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 6. h3 Bxf3 7. Qxf3
+games: 42, white: 57%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Be3 Bg4 7. h3 Bxf3 8. Qxf3 e6 9. O-O-O
+games: 42, white: 57%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 c6 8. Be3 e6 9. O-O-O
+games: 42, white: 57%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Be3 Bg4 7. h3 Bxf3 8. Qxf3 e6 9. O-O-O
+games: 42, white: 57%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Be3 Bg4 7. h3 Bxf3 8. Qxf3 e6 9. O-O-O
+games: 42, white: 57%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 6. h3 Bxf3 7. Qxf3 c6 8. Be3 e6 9. O-O-O
+games: 42, white: 38%, black: 30%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. Bc4
+games: 41, white: 29%, black: 41%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nb5 Qb6 
+games: 40, white: 50%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Bg4 6. h3 Bxf3 
+games: 40, white: 50%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3
+games: 39, white: 38%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. Bg2 c6 
+games: 39, white: 38%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. Bg2 c6 
+games: 39, white: 30%, black: 33%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nge2 c6 6. Bf4
+games: 36, white: 52%, black: 11%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Be3 Bg4 7. h3 Bh5 
+games: 36, white: 52%, black: 11%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Be3 Bg4 7. h3 Bh5 
+games: 36, white: 52%, black: 11%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Be3 Bg4 7. h3 Bh5 
+games: 35, white: 48%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bf5 7. Bg2 h6 8. O-O
+games: 35, white: 48%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bf5 7. Bg2 h6 8. O-O
+games: 35, white: 48%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bf5 7. Bg2 h6 8. O-O
+games: 34, white: 61%, black: 29%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 a6 6. Nge2 Qc6 
+games: 34, white: 47%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bf5 7. Bg2 h6 
+games: 34, white: 47%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bf5 7. Bg2 h6 
+games: 34, white: 47%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bf5 7. Bg2 h6 
+games: 34, white: 44%, black: 29%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. h3 Bxf3 
+games: 34, white: 44%, black: 29%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. h3 Bxf3 
+games: 34, white: 44%, black: 29%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. h3 Bxf3 8. Qxf3
+games: 34, white: 44%, black: 29%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. h3 Bxf3 8. Qxf3
+games: 33, white: 39%, black: 18%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Be3 Bf5 
+games: 33, white: 39%, black: 18%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Be3 Bf5 
+games: 33, white: 39%, black: 18%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Be3 Bf5 
+games: 32, white: 40%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Nb5 Qd8 7. Bf4
+games: 32, white: 40%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 g6 6. Nb5 Qd8 7. Bf4
+games: 32, white: 28%, black: 40%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nb5 Qb6 6. c4
+games: 31, white: 61%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Bf5 
+games: 31, white: 61%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Ne5 Bf5 
+games: 31, white: 61%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Ne5 Bf5 
+games: 31, white: 45%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. Bg2 c6 8. O-O e6 
+games: 31, white: 45%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. Bg2 c6 8. O-O e6 
+games: 31, white: 32%, black: 41%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Be2
+games: 31, white: 32%, black: 41%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 g6 6. Be2
+games: 31, white: 32%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 g6 7. Bg2 Bg7 8. O-O O-O 
+games: 31, white: 32%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 g6 7. Bg2 Bg7 8. O-O O-O 
+games: 31, white: 32%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 g6 7. Bg2 Bg7 8. O-O O-O 
+games: 31, white: 22%, black: 35%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nge2 c6 6. Bf4 Qd8 
+games: 30, white: 43%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. Bg2 c6 8. O-O
+games: 30, white: 43%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. Bg2 c6 8. O-O
+games: 30, white: 40%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bg4 7. Bg2 e6 8. O-O Nbd7 
+games: 30, white: 40%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bg4 7. Bg2 e6 8. O-O Nbd7 
+games: 30, white: 40%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bg4 7. Bg2 e6 8. O-O Nbd7 
+games: 30, white: 36%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. h3 Bf5 7. Ne5
+games: 30, white: 36%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. h3 Bf5 7. Ne5
+games: 30, white: 36%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. h3 Bf5 7. Ne5
+games: 29, white: 41%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Nb5 Qd8 7. c4
+games: 29, white: 41%, black: 24%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 g6 6. Nb5 Qd8 7. c4
+games: 28, white: 39%, black: 14%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. Be2
+games: 28, white: 35%, black: 39%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Be2 Bg7 
+games: 28, white: 35%, black: 39%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 g6 6. Be2 Bg7 
+games: 26, white: 46%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Nbd7 7. f4 Nb6 8. g4 g6 
+games: 26, white: 46%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Ne5 Nbd7 7. f4 Nb6 8. g4 g6 
+games: 26, white: 46%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Ne5 Nbd7 7. f4 Nb6 8. g4 g6 
+games: 25, white: 52%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. Bg2 Nc6 8. Bf4
+games: 25, white: 52%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. Bg2 Nc6 8. Bf4
+games: 25, white: 32%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. h3 Bf5 7. Ne5 Nbd7 
+games: 25, white: 32%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. h3 Bf5 7. Ne5 Nbd7 
+games: 25, white: 32%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. h3 Bf5 7. Ne5 Nbd7 
+games: 24, white: 37%, black: 45%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Be2 Bg7 7. O-O
+games: 24, white: 37%, black: 45%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 g6 6. Be2 Bg7 7. O-O
+games: 24, white: 20%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 g6 7. Bg2 Bg7 
+games: 24, white: 20%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 g6 7. Bg2 Bg7 
+games: 24, white: 20%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 g6 7. Bg2 Bg7 
+games: 23, white: 65%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. Bg2 Nc6 8. O-O O-O-O 9. h3
+games: 23, white: 65%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. Bg2 Nc6 8. O-O O-O-O 9. h3
+games: 23, white: 52%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Be3 Bg4 7. h3 Bxf3 8. Qxf3 e6 9. O-O-O Nbd7 
+games: 23, white: 52%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 c6 8. Be3 e6 9. O-O-O Nbd7 
+games: 23, white: 52%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Be3 Bg4 7. h3 Bxf3 8. Qxf3 e6 9. O-O-O Nbd7 
+games: 23, white: 52%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Be3 Bg4 7. h3 Bxf3 8. Qxf3 e6 9. O-O-O Nbd7 
+games: 23, white: 52%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 6. h3 Bxf3 7. Qxf3 c6 8. Be3 e6 9. O-O-O Nbd7 
+games: 23, white: 34%, black: 47%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Be2 Bg7 7. O-O O-O 
+games: 23, white: 34%, black: 47%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 g6 6. Be2 Bg7 7. O-O O-O 
+games: 23, white: 30%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 a6 6. Bb3 e6 
+games: 23, white: 30%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. h3 Bf5 7. Ne5 Nbd7 8. Nc4
+games: 23, white: 30%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. h3 Bf5 7. Ne5 Nbd7 8. Nc4
+games: 23, white: 30%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. h3 Bf5 7. Ne5 Nbd7 8. Nc4
+games: 23, white: 26%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 g6 7. Bg2 Bg7 8. O-O
+games: 23, white: 26%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 g6 7. Bg2 Bg7 8. O-O
+games: 23, white: 26%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 g6 7. Bg2 Bg7 8. O-O
+games: 22, white: 50%, black: 18%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Ne4
+games: 22, white: 45%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Nb5 Qb6 7. a4
+games: 22, white: 45%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 g6 6. Nb5 Qb6 7. a4
+games: 22, white: 45%, black: 27%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. h3 Bxf3 8. Qxf3 c6 
+games: 22, white: 45%, black: 27%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. h3 Bxf3 8. Qxf3 c6 
+games: 21, white: 28%, black: 42%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. Bc4 a6 
+games: 21, white: 28%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. h3 Bf5 7. Ne5 Nbd7 8. Nc4 Qc7 
+games: 21, white: 28%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. h3 Bf5 7. Ne5 Nbd7 8. Nc4 Qc7 
+games: 21, white: 28%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. h3 Bf5 7. Ne5 Nbd7 8. Nc4 Qc7 
+games: 21, white: 28%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. h3 Bf5 7. Ne5 Nbd7 8. Nc4 Qc7 9. Qf3
+games: 21, white: 28%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. h3 Bf5 7. Ne5 Nbd7 8. Nc4 Qc7 9. Qf3
+games: 21, white: 28%, black: 19%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. h3 Bf5 7. Ne5 Nbd7 8. Nc4 Qc7 9. Qf3
+games: 20, white: 55%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Nbd7 7. f4 Nb6 8. g4 Nbd5 
+games: 20, white: 55%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Ne5 Nbd7 7. f4 Nb6 8. g4 Nbd5 
+games: 20, white: 55%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Ne5 Nbd7 7. f4 Nb6 8. g4 Nbd5 
+games: 20, white: 40%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 Bg4 
+games: 20, white: 35%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. g3
+games: 20, white: 30%, black: 35%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nge2 Bf5 
+games: 19, white: 57%, black: 10%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Be3 Bg4 7. h3 Bxf3 
+games: 19, white: 57%, black: 10%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Be3 Bg4 7. h3 Bxf3 
+games: 19, white: 57%, black: 10%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Be3 Bg4 7. h3 Bxf3 
+games: 19, white: 52%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. h3 Bxf3 8. Qxf3 c6 9. Be3
+games: 19, white: 52%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. h3 Bxf3 8. Qxf3 c6 9. Be3
+games: 18, white: 72%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 a6 6. Nge2 Qc6 7. Bb3
+games: 18, white: 72%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 a6 6. Nge2 Qc6 7. Bb3 Qxg2 
+games: 18, white: 72%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 a6 6. Nge2 Qc6 7. Bb3 Qxg2 8. Rg1
+games: 18, white: 50%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bg4 7. Bg2 e6 8. O-O Nbd7 9. Bf4
+games: 18, white: 50%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bg4 7. Bg2 e6 8. O-O Nbd7 9. Bf4
+games: 18, white: 50%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bg4 7. Bg2 e6 8. O-O Nbd7 9. Bf4
+games: 18, white: 50%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bg4 7. Bg2 e6 8. O-O Nbd7 9. Bf4 Qb4 
+games: 18, white: 50%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bg4 7. Bg2 e6 8. O-O Nbd7 9. Bf4 Qb4 
+games: 18, white: 50%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bg4 7. Bg2 e6 8. O-O Nbd7 9. Bf4 Qb4 
+games: 18, white: 44%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Nbd7 7. f4 Nb6 8. g4 g6 9. Bg2
+games: 18, white: 44%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Ne5 Nbd7 7. f4 Nb6 8. g4 g6 9. Bg2
+games: 18, white: 44%, black: 22%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Ne5 Nbd7 7. f4 Nb6 8. g4 g6 9. Bg2
+games: 17, white: 52%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. Bg2 Nc6 8. O-O e6 
+games: 17, white: 52%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. Bg2 Nc6 8. O-O e6 
+games: 17, white: 47%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 b5 7. Bg2 Bb7 8. O-O Nbd7 
+games: 17, white: 47%, black: 17%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 b5 7. Bg2 Bb7 8. O-O Nbd7 
+games: 17, white: 41%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. Bg2 e6 
+games: 17, white: 41%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. Bg2 e6 
+games: 17, white: 35%, black: 41%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bd3 g6 
+games: 17, white: 35%, black: 35%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nge2 Bf5 6. Bf4
+games: 17, white: 23%, black: 41%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nge2 Bg4 
+games: 16, white: 62%, black: 12%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 g6 
+games: 16, white: 62%, black: 12%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 g6 
+games: 16, white: 62%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bh5 7. g4 Bg6 8. Ne5 c6 
+games: 16, white: 62%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 Bg4 6. h3 Bh5 7. g4 Bg6 8. Ne5 c6 
+games: 16, white: 62%, black: 12%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Nbd7 7. f4 Nb6 8. g4 Nbd5 9. Bg2
+games: 16, white: 62%, black: 12%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Ne5 Nbd7 7. f4 Nb6 8. g4 Nbd5 9. Bg2
+games: 16, white: 62%, black: 12%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Ne5 Nbd7 7. f4 Nb6 8. g4 Nbd5 9. Bg2
+games: 16, white: 50%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. h3 Bxf3 8. Qxf3 c6 9. Be3 e6 
+games: 16, white: 50%, black: 18%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 b5 7. Bg2 Bb7 8. O-O Nbd7 9. Bf4 Qb6 
+games: 16, white: 50%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. h3 Bxf3 8. Qxf3 c6 9. Be3 e6 
+games: 16, white: 50%, black: 18%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 b5 7. Bg2 Bb7 8. O-O Nbd7 9. Bf4 Qb6 
+games: 16, white: 43%, black: 31%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bd3 g6 6. Nge2 Bg7 
+games: 16, white: 43%, black: 31%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bd3 g6 6. Nge2 Bg7 7. Bf4
+games: 16, white: 18%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bf5 7. Bg2 e6 8. O-O Nbd7 
+games: 16, white: 18%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bf5 7. Bg2 e6 8. O-O Nbd7 
+games: 16, white: 18%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bf5 7. Bg2 e6 8. O-O Nbd7 
+games: 15, white: 60%, black: 13%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Be3 Bf5 7. Nh4
+games: 15, white: 60%, black: 13%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Be3 Bf5 7. Nh4
+games: 15, white: 60%, black: 13%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Be3 Bf5 7. Nh4
+games: 15, white: 46%, black: 13%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Bg5
+games: 15, white: 46%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 b5 7. Bg2 Bb7 8. O-O Nbd7 9. Bf4
+games: 15, white: 46%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 b5 7. Bg2 Bb7 8. O-O Nbd7 9. Bf4
+games: 15, white: 26%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 g6 7. Bg2
+games: 15, white: 26%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 g6 7. Bg2
+games: 15, white: 26%, black: 26%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 g6 7. Bg2
+games: 14, white: 50%, black: 14%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. g3 Bg4 6. Bg2
+games: 14, white: 35%, black: 21%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 g6 5. Bc4
+games: 14, white: 35%, black: 42%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bd3 g6 6. Nge2
+games: 13, white: 53%, black: 15%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. g3 Bg4 
+games: 13, white: 53%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. Bg2 Nc6 8. O-O e6 9. Bf4
+games: 13, white: 53%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. Bg2 Nc6 8. O-O e6 9. Bf4
+games: 13, white: 53%, black: 15%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 b5 7. Bg2 Bb7 8. O-O Nbd7 9. Bf4 Qb6 10. a4
+games: 13, white: 53%, black: 15%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 b5 7. Bg2 Bb7 8. O-O Nbd7 9. Bf4 Qb6 10. a4
+games: 13, white: 46%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 Bg4 6. f3
+games: 13, white: 46%, black: 30%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Nc6 
+games: 13, white: 46%, black: 30%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Nc6 
+games: 13, white: 38%, black: 30%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 a6 6. Nge2 b5 7. Bf4
+games: 13, white: 30%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 g6 
+games: 13, white: 30%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 g6 
+games: 13, white: 30%, black: 23%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 g6 
+games: 12, white: 58%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Be3 Bf5 7. Nh4 Be6 
+games: 12, white: 58%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Be3 Bf5 7. Nh4 Be6 
+games: 12, white: 58%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Be3 Bf5 7. Nh4 Be6 
+games: 12, white: 50%, black: 16%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 Bg4 6. f3 Bf5 
+games: 12, white: 50%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Nbd7 7. f4 g6 
+games: 12, white: 50%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. Ne5 Nbd7 7. f4 g6 
+games: 12, white: 50%, black: 25%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. Ne5 Nbd7 7. f4 g6 
+games: 12, white: 41%, black: 33%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. h3 Bxf3 8. Qxf3 Nc6 
+games: 12, white: 41%, black: 33%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. h3 Bxf3 8. Qxf3 Nc6 
+games: 12, white: 41%, black: 33%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. h3 Bxf3 8. Qxf3 Nc6 9. Be3
+games: 12, white: 41%, black: 33%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. h3 Bxf3 8. Qxf3 Nc6 9. Be3
+games: 11, white: 45%, black: 36%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Be2 Bg7 7. O-O O-O 8. Nb5
+games: 11, white: 45%, black: 36%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 g6 6. Be2 Bg7 7. O-O O-O 8. Nb5
+games: 11, white: 45%, black: 27%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 Bg4 7. h3 Bxf3 8. Qxf3 c6 9. Be3 e6 10. O-O-O
+games: 11, white: 45%, black: 27%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 a6 6. g3 Bg4 7. h3 Bxf3 8. Qxf3 c6 9. Be3 e6 10. O-O-O
+games: 10, white: 60%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bf5 7. Bg2 e6 8. O-O h6 9. Ne2
+games: 10, white: 60%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bf5 7. Bg2 h6 8. O-O e6 9. Ne2
+games: 10, white: 60%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bf5 7. Bg2 e6 8. O-O h6 9. Ne2
+games: 10, white: 60%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bf5 7. Bg2 h6 8. O-O e6 9. Ne2
+games: 10, white: 60%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bf5 7. Bg2 e6 8. O-O h6 9. Ne2
+games: 10, white: 60%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bf5 7. Bg2 h6 8. O-O e6 9. Ne2
+games: 10, white: 50%, black: 10%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bg4 7. Bg2 Nbd7 
+games: 10, white: 50%, black: 10%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bg4 7. Bg2 Nbd7 
+games: 10, white: 50%, black: 10%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bg4 7. Bg2 Nbd7 
+games: 10, white: 50%, black: 10%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. g3 Bg4 7. Bg2 Nbd7 8. O-O
+games: 10, white: 50%, black: 10%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. g3 Bg4 7. Bg2 Nbd7 8. O-O
+games: 10, white: 50%, black: 10%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. g3 Bg4 7. Bg2 Nbd7 8. O-O
+games: 10, white: 40%, black: 60%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. Bc4 a6 6. a4
+games: 10, white: 30%, black: 20%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 g6 5. Nb5
+games: 10, white: 10%, black: 40%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. h3 Nbd7 
+games: 10, white: 10%, black: 40%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. Nf3 Nf6 6. h3 Nbd7 
+games: 10, white: 10%, black: 40%, pgn:1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. d4 c6 6. h3 Nbd7 
